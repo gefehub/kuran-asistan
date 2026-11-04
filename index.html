@@ -1,0 +1,267 @@
+<!doctype html><html lang="tr"><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style><title>Kuran asistanı</title>
+<meta name="theme-color" content="#1f5e4f">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Kuran asistanı">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+</head><body>
+<style>
+@font-face{font-family:"Amiri";font-weight:400;font-style:normal;font-display:swap;src:url(fonts/amiri-arabic-400-normal.woff2) format("woff2");unicode-range:U+0600-06FF,U+0750-077F,U+0870-089F,U+08A0-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FEFC}
+@font-face{font-family:"Amiri";font-weight:700;font-style:normal;font-display:swap;src:url(fonts/amiri-arabic-700-normal.woff2) format("woff2");unicode-range:U+0600-06FF,U+0750-077F,U+0870-089F,U+08A0-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FEFC}
+@font-face{font-family:"Amiri";font-weight:400;font-style:normal;font-display:swap;src:url(fonts/amiri-latin-400-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Amiri";font-weight:700;font-style:normal;font-display:swap;src:url(fonts/amiri-latin-700-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Source Sans 3";font-weight:400;font-style:normal;font-display:swap;src:url(fonts/source-sans-3-latin-400-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Source Sans 3";font-weight:400;font-style:normal;font-display:swap;src:url(fonts/source-sans-3-latin-ext-400-normal.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:"Source Sans 3";font-weight:600;font-style:normal;font-display:swap;src:url(fonts/source-sans-3-latin-600-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Source Sans 3";font-weight:600;font-style:normal;font-display:swap;src:url(fonts/source-sans-3-latin-ext-600-normal.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:"Source Sans 3";font-weight:700;font-style:normal;font-display:swap;src:url(fonts/source-sans-3-latin-700-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Source Sans 3";font-weight:700;font-style:normal;font-display:swap;src:url(fonts/source-sans-3-latin-ext-700-normal.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+/* Layout: one narrow reading column — a shelf of fiches, then the selected fiche rendered below */
+:root{
+  --bg:#f3efe6; --surface:#fffdf8; --fg:#25221d; --muted:#7c725f;
+  --green:#1f5e4f; --accent:#a8552e; --line:#e2d8c4;
+  --f-body:"Source Sans 3",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --fsbg:#14211d; --fsbar:#1f5e4f; --fsfg:#ffffff; --fsline:rgba(255,255,255,.35);
+  --f-ar:"Amiri","Geeza Pro","Noto Naskh Arabic",serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#171a18; --surface:#212623; --fg:#ece7dc; --muted:#a39a88;
+  --green:#6fbfa7; --accent:#e0956b; --line:#343b37; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#171a18; --surface:#212623; --fg:#ece7dc; --muted:#a39a88;
+  --green:#6fbfa7; --accent:#e0956b; --line:#343b37; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:16px;line-height:1.5}
+.wrap{max-width:760px;margin:0 auto;padding-inline:16px;padding-block:28px 48px;display:grid;gap:24px}
+header{display:flex;justify-content:space-between;align-items:flex-end;gap:12px;flex-wrap:wrap;border-bottom:3px solid var(--green);padding-bottom:10px}
+h1{margin:0;font-size:1.9rem;color:var(--green);font-weight:700;letter-spacing:.2px}
+.bism{font-family:var(--f-ar);font-size:1.35rem;color:var(--green);direction:rtl}
+.label{font-size:.78rem;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:var(--accent);margin:0 0 8px}
+.list{display:grid;gap:8px;list-style:none;margin:0;padding:0}
+.item{display:flex;align-items:center;gap:14px;width:100%;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;color:inherit;font:inherit;cursor:pointer}
+.item:hover{border-color:var(--green)}
+.item:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+.item[aria-current="true"]{border-color:var(--green);box-shadow:inset 4px 0 0 var(--green)}
+.groups{display:grid;gap:18px}
+.group{display:block}
+.ghead{display:flex;align-items:center;gap:10px;margin:0;font-size:1rem;cursor:pointer;list-style:none;padding:6px 2px;border-radius:8px;-webkit-user-select:none;user-select:none}
+.ghead::-webkit-details-marker{display:none}
+.ghead:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+.group[open] > .ghead{margin-bottom:8px}
+.chev{margin-left:auto;width:10px;height:10px;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(45deg);transition:transform .15s;margin-right:6px}
+.group:not([open]) .chev{transform:rotate(-45deg)}
+.ghead:hover .chev{border-color:var(--green)}
+.pnum{background:var(--green);color:var(--surface);border-radius:999px;padding:2px 12px;font-weight:700;font-size:.9rem;font-variant-numeric:tabular-nums}
+.prange{color:var(--muted);font-weight:600;font-size:.9rem}
+.ref{font-variant-numeric:tabular-nums;font-weight:700;color:var(--green);min-width:4.2em}
+.meta{flex:1;min-width:0}
+.meta b{display:block;font-weight:600}
+.meta span{color:var(--muted);font-size:.9rem}
+.ar{font-family:var(--f-ar);font-size:1.4rem;color:var(--green);direction:rtl;white-space:nowrap}
+.viewer{display:grid;gap:10px}
+.vhead{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+.vhead h2{margin:0;font-size:1.15rem}
+.open{background:transparent;font:inherit;font-weight:600;cursor:pointer;color:var(--green);font-weight:600;text-decoration:none;border:1px solid var(--green);border-radius:999px;padding:4px 14px;font-size:.9rem}
+.open:hover{background:var(--green);color:var(--surface)}
+.open:disabled{opacity:.6;cursor:default}
+.note{color:var(--muted);font-size:.85rem;margin:0}
+#pages{display:grid;gap:12px}
+#pages canvas{width:100%;height:auto;border-radius:10px;border:1px solid var(--line);background:#fff}
+.status{color:var(--muted);font-size:.95rem}
+@media (max-width:420px){.ar{display:none}}
+.actions{display:flex;gap:8px;flex-wrap:wrap}
+#pages canvas{cursor:zoom-in}
+.fs{position:fixed;inset:0;z-index:50;background:var(--fsbg);display:flex;flex-direction:column}
+.fs[hidden]{display:none!important}
+.fsbar{display:flex;align-items:center;gap:8px;padding:calc(8px + env(safe-area-inset-top,0px)) 12px 8px;background:var(--fsbar);color:var(--fsfg)}
+.fsbar .t{flex:1;min-width:0;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.fsbtn{background:transparent;color:var(--fsfg);border:1px solid var(--fsline);border-radius:8px;min-width:40px;height:36px;padding:0 10px;font:inherit;font-weight:600;cursor:pointer}
+.fsbtn:focus-visible{outline:2px solid var(--fsfg);outline-offset:2px}
+.zoom{font-variant-numeric:tabular-nums;min-width:3.4em;text-align:center;color:var(--fsfg);font-size:.9rem}
+.fsbody{flex:1;overflow:auto;padding:12px;padding-bottom:calc(12px + env(safe-area-inset-bottom,0px));-webkit-overflow-scrolling:touch}
+.fsinner{margin:0 auto;display:grid;gap:12px}
+.fsinner img{display:block;width:100%;max-width:none;height:auto;border-radius:6px;background:#fff}
+@media (max-width:420px){.zoom{display:none}}
+
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Kuran asistanı</h1>
+    <div class="bism">بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</div>
+  </header>
+
+  <section>
+    <p class="label">Tekrar kartları · Mushaf sayfasına göre</p>
+    <div class="groups" id="list"></div>
+  </section>
+
+  <section class="viewer" aria-live="polite">
+    <div class="vhead">
+      <h2 id="vtitle"></h2>
+      <div class="actions"><button class="open" id="vfull" type="button">Tam ekran</button><button class="open" id="vopen" type="button" hidden>PDF kaydet</button></div>
+    </div>
+    <p class="note" id="vnote" hidden></p>
+    <div id="pages"><p class="status">Kart yükleniyor…</p></div>
+  </section>
+</div>
+
+<div class="fs" id="fs" hidden role="dialog" aria-modal="true" aria-labelledby="fstitle">
+  <div class="fsbar">
+    <span class="t" id="fstitle"></span>
+    <button class="fsbtn" id="zout" type="button" aria-label="Uzaklaştır">−</button>
+    <span class="zoom" id="zval">100 %</span>
+    <button class="fsbtn" id="zin" type="button" aria-label="Yakınlaştır">+</button>
+    <button class="fsbtn" id="zfit" type="button">Sığdır</button>
+    <button class="fsbtn" id="fsclose" type="button" aria-label="Kapat">✕</button>
+  </div>
+  <div class="fsbody" id="fsbody"><div class="fsinner" id="fsinner"></div></div>
+</div>
+
+<script src="lib/pdf.min.js"></script>
+<script>
+pdfjsLib.GlobalWorkerOptions.workerSrc = "lib/pdf.worker.min.js";
+// Ajouter une fiche = ajouter une ligne ici + publier le PDF dans fiches/ (généré par fiches/source/render.py + fiches.json)
+// Écriture : mushaf turc (Diyanet / Açık Kuran), mot-à-mot Açık Kuran, meal Diyanet
+// Règle : police arabe Amiri — fatha AU-DESSUS de la chadda (jamais en dessous, sinon elle se lit comme une kasra)
+const FICHES = [
+  { id:"bakara-020", ref:"2:20", sure:"Bakara", ayet:20, page:4, titre:"Şimşek ayeti", debut:"يَكَادُ الْبَرْقُ", file:"fiches/bakara-020.pdf" },
+  { id:"bakara-021", ref:"2:21", sure:"Bakara", ayet:21, page:4, titre:"Kulluk çağrısı", debut:"يَٓا اَيُّهَا", file:"fiches/bakara-021.pdf" },
+  { id:"bakara-022", ref:"2:22", sure:"Bakara", ayet:22, page:4, titre:"Yer, gök ve rızık", debut:"اَلَّذِي جَعَلَ", file:"fiches/bakara-022.pdf" },
+  { id:"bakara-023", ref:"2:23", sure:"Bakara", ayet:23, page:4, titre:"Meydan okuma", debut:"وَاِنْ كُنْتُمْ", file:"fiches/bakara-023.pdf" },
+  { id:"bakara-024", ref:"2:24", sure:"Bakara", ayet:24, page:4, titre:"Ateşten sakının", debut:"فَاِنْ لَمْ", file:"fiches/bakara-024.pdf" },
+  { id:"bakara-025", ref:"2:25", sure:"Bakara", ayet:25, page:5, titre:"Cennet müjdesi", debut:"وَبَشِّرِ الَّذِينَ", file:"fiches/bakara-025.pdf" },
+  { id:"bakara-026", ref:"2:26", sure:"Bakara", ayet:26, page:5, titre:"Sivrisinek misali", debut:"اِنَّ اللّٰهَ", file:"fiches/bakara-026.pdf" },
+  { id:"bakara-027", ref:"2:27", sure:"Bakara", ayet:27, page:5, titre:"Ahdi bozanlar", debut:"اَلَّذ۪ينَ يَنْقُضُونَ", file:"fiches/bakara-027.pdf" },
+  { id:"bakara-028", ref:"2:28", sure:"Bakara", ayet:28, page:5, titre:"Ölüm ve diriliş", debut:"كَيْفَ تَكْفُرُونَ", file:"fiches/bakara-028.pdf" },
+  { id:"bakara-029", ref:"2:29", sure:"Bakara", ayet:29, page:5, titre:"Yedi gök", debut:"هُوَ الَّذ۪ي", file:"fiches/bakara-029.pdf" },
+  { id:"bakara-030", ref:"2:30", sure:"Bakara", ayet:30, page:6, titre:"Yeryüzünde halife", debut:"وَاِذْ قَالَ رَبُّكَ", file:"fiches/bakara-030.pdf" },
+  { id:"bakara-031", ref:"2:31", sure:"Bakara", ayet:31, page:6, titre:"İsimlerin öğretilmesi", debut:"وَعَلَّمَ اٰدَمَ", file:"fiches/bakara-031.pdf" },
+  { id:"bakara-032", ref:"2:32", sure:"Bakara", ayet:32, page:6, titre:"Meleklerin cevabı", debut:"قَالُوا سُبْحَانَكَ", file:"fiches/bakara-032.pdf" },
+  { id:"bakara-033", ref:"2:33", sure:"Bakara", ayet:33, page:6, titre:"Âdem isimleri bildiriyor", debut:"قَالَ يَٓا اٰدَمُ", file:"fiches/bakara-033.pdf" },
+  { id:"bakara-034", ref:"2:34", sure:"Bakara", ayet:34, page:6, titre:"Secde ve İblis", debut:"وَاِذْ قُلْنَا", file:"fiches/bakara-034.pdf" },
+  { id:"bakara-035", ref:"2:35", sure:"Bakara", ayet:35, page:6, titre:"Cennet ve yasak ağaç", debut:"وَقُلْنَا يَٓا اٰدَمُ", file:"fiches/bakara-035.pdf" },
+  { id:"bakara-036", ref:"2:36", sure:"Bakara", ayet:36, page:6, titre:"Cennetten iniş", debut:"فَاَزَلَّهُمَا الشَّيْطَانُ", file:"fiches/bakara-036.pdf" },
+  { id:"bakara-037", ref:"2:37", sure:"Bakara", ayet:37, page:6, titre:"Âdem'in tövbesi", debut:"فَتَلَقّٰٓى اٰدَمُ", file:"fiches/bakara-037.pdf" },
+];
+
+const list = document.getElementById('list');
+const pages = document.getElementById('pages');
+let current = null, renderToken = 0;
+
+function buildList(){
+  list.innerHTML = '';
+  const byPage = new Map();
+  FICHES.forEach(f=>{ if(!byPage.has(f.page)) byPage.set(f.page, []); byPage.get(f.page).push(f); });
+  [...byPage.keys()].sort((a,b)=>a-b).forEach(p=>{
+    const fs = byPage.get(p).sort((a,b)=>a.ayet-b.ayet);
+    const g = document.createElement('details'); g.className='group'; g.id='p-'+p;
+    const h = document.createElement('summary'); h.className='ghead';
+    const first = fs[0], last = fs[fs.length-1];
+    h.innerHTML = `<span class="pnum">Sayfa ${p}</span><span class="prange">${first.sure} ${first.ayet}${fs.length>1?'–'+last.ayet:''} · ${fs.length} kart</span><span class="chev" aria-hidden="true"></span>`;
+    const ul = document.createElement('ul'); ul.className='list';
+    g.appendChild(h); g.appendChild(ul); list.appendChild(g);
+    fs.forEach(f=>addItem(ul,f));
+  });
+}
+function addItem(ul,f){
+  {
+    const li = document.createElement('li');
+    const b = document.createElement('button');
+    b.className = 'item'; b.type = 'button'; b.id = 'f-'+f.id;
+    b.innerHTML = `<span class="ref">${f.ref}</span><span class="meta"><b>${f.sure} ${f.ayet}</b><span>${f.titre}</span></span><span class="ar">${f.debut}</span>`;
+    b.addEventListener('click',()=>show(f));
+    li.appendChild(b); ul.appendChild(li);
+  }
+}
+
+async function show(f){
+  current = f;
+  const grp = document.getElementById('p-'+f.page); if(grp) grp.open = true;
+  document.querySelectorAll('.item').forEach(el=>el.setAttribute('aria-current', el.id==='f-'+f.id ? 'true':'false'));
+  document.getElementById('vtitle').textContent = `${f.sure} ${f.ayet} · ${f.titre} · Sayfa ${f.page}`;
+  const token = ++renderToken;
+  pages.innerHTML = '<p class="status">Kart yükleniyor…</p>';
+  try{
+    const buf = await (await fetch(f.file)).arrayBuffer();
+    const pdf = await pdfjsLib.getDocument({data:buf}).promise;
+    if(token!==renderToken) return;
+    pages.innerHTML = '';
+    for(let n=1;n<=pdf.numPages;n++){
+      const page = await pdf.getPage(n);
+      const base = page.getViewport({scale:1});
+      const scale = Math.min(4, (Math.max(pages.clientWidth,320) / base.width) * (window.devicePixelRatio||1) * 1.5);
+      const vp = page.getViewport({scale});
+      const c = document.createElement('canvas');
+      c.width = Math.floor(vp.width); c.height = Math.floor(vp.height);
+      c.setAttribute('aria-label', `${f.sure} ${f.ayet}, sayfa ${n}`);
+      pages.appendChild(c);
+      await page.render({canvasContext:c.getContext('2d'), viewport:vp}).promise;
+      if(token!==renderToken) return;
+    }
+  }catch(e){
+    pages.innerHTML = '<p class="status">Kart burada gösterilemedi. İnternet bağlantını kontrol et.</p>';
+  }
+}
+
+buildList();
+
+const fs=document.getElementById('fs'), fsinner=document.getElementById('fsinner'), fsbody=document.getElementById('fsbody'), zval=document.getElementById('zval');
+let zoom=1;
+function setZoom(z){
+  zoom=Math.max(1,Math.min(4,Math.round(z*4)/4));
+  const fit=Math.min(fsbody.clientWidth-24, 900);
+  fsinner.style.width=(fit*zoom)+'px';
+  zval.textContent=Math.round(zoom*100)+' %';
+}
+function openFs(){
+  const cs=[...pages.querySelectorAll('canvas')]; if(!cs.length) return;
+  fsinner.innerHTML='';
+  cs.forEach(c=>{const im=new Image(); im.src=c.toDataURL('image/png'); im.alt=c.getAttribute('aria-label')||''; im.addEventListener('dblclick',()=>setZoom(zoom>1?1:2)); fsinner.appendChild(im);});
+  document.getElementById('fstitle').textContent=document.getElementById('vtitle').textContent;
+  fs.hidden=false; document.body.style.overflow='hidden';
+  setZoom(1); fsbody.scrollTop=0;
+  try{ const p=fs.requestFullscreen?.(); if(p&&p.catch) p.catch(()=>{}); }catch(e){}
+  document.getElementById('fsclose').focus();
+}
+function closeFs(){
+  fs.hidden=true; document.body.style.overflow='';
+  try{ if(document.fullscreenElement) document.exitFullscreen().catch(()=>{}); }catch(e){}
+}
+document.getElementById('vfull').addEventListener('click',openFs);
+pages.addEventListener('click',e=>{ if(e.target.tagName==='CANVAS') openFs(); });
+document.getElementById('fsclose').addEventListener('click',closeFs);
+document.getElementById('zin').addEventListener('click',()=>setZoom(zoom+0.5));
+document.getElementById('zout').addEventListener('click',()=>setZoom(zoom-0.5));
+document.getElementById('zfit').addEventListener('click',()=>setZoom(1));
+document.addEventListener('keydown',e=>{ if(fs.hidden) return; if(e.key==='Escape') closeFs(); if(e.key==='+'||e.key==='=') setZoom(zoom+0.5); if(e.key==='-') setZoom(zoom-0.5); });
+document.addEventListener('fullscreenchange',()=>{ if(!document.fullscreenElement && !fs.hidden) setZoom(zoom); });
+window.addEventListener('resize',()=>{ if(!fs.hidden) setZoom(zoom); });
+const btn = document.getElementById('vopen'), note = document.getElementById('vnote');
+btn.hidden = false;
+btn.addEventListener('click', async ()=>{
+  if(!current) return;
+  btn.disabled = true; note.hidden = true;
+  const name = `${current.sure}-${current.ayet}-kart.pdf`;
+  try{
+    const blob = await (await fetch(current.file)).blob();
+    const file = new File([blob], name, {type:'application/pdf'});
+    if(navigator.canShare && navigator.canShare({files:[file]})){
+      await navigator.share({files:[file], title:name});
+    }else{
+      const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=name; document.body.appendChild(a); a.click(); a.remove();
+      setTimeout(()=>URL.revokeObjectURL(a.href),4000);
+    }
+  }catch(e){
+    if(!(e && e.name==='AbortError')){ note.textContent='PDF şu an kaydedilemedi.'; note.hidden=false; }
+  }finally{ btn.disabled = false; }
+});
+if('serviceWorker' in navigator){ window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{})); }
+const fromHash = FICHES.find(f=>'#'+f.id===location.hash);
+const lastFiche = [...FICHES].sort((a,b)=>a.page-b.page||a.ayet-b.ayet).pop();
+show(fromHash || lastFiche);
+</script>
+
+</body></html>
