@@ -1,5 +1,5 @@
 // Kuran asistanı — çevrimdışı önbellek. Yeni kart eklerken VERSION'u artır.
-const VERSION = "kuran-v2";
+const VERSION = "kuran-v3";
 const FILES = [
  "./",
  "index.html",

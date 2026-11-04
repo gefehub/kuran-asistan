@@ -45,6 +45,11 @@ h1{margin:0;font-size:1.9rem;color:var(--green);font-weight:700;letter-spacing:.
 .item:focus-visible{outline:2px solid var(--green);outline-offset:2px}
 .item[aria-current="true"]{border-color:var(--green);box-shadow:inset 4px 0 0 var(--green)}
 .groups{display:grid;gap:18px}
+.here{display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:var(--surface);border:1.5px solid var(--green);border-radius:12px;padding:10px 14px;margin:0 0 16px}
+.here b{color:var(--green)}
+.here select{font:inherit;font-weight:700;color:var(--green);background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:6px 10px;min-height:40px}
+.here small{color:var(--muted);flex-basis:100%;font-size:.82rem}
+.cur{background:var(--accent);color:#fff;border-radius:999px;padding:1px 9px;font-size:.75rem;font-weight:700}
 .group{display:block}
 .ghead{display:flex;align-items:center;gap:10px;margin:0;font-size:1rem;cursor:pointer;list-style:none;padding:6px 2px;border-radius:8px;-webkit-user-select:none;user-select:none}
 .ghead::-webkit-details-marker{display:none}
@@ -94,6 +99,7 @@ h1{margin:0;font-size:1.9rem;color:var(--green);font-weight:700;letter-spacing:.
   </header>
 
   <section>
+    <div class="here"><b>Şu an buradayım:</b><select id="cursel" aria-label="Şu anki sayfa"></select><small>Uygulama her açıldığında bu sayfa açık gelir.</small></div>
     <p class="label">Tekrar kartları · Mushaf sayfasına göre</p>
     <div class="groups" id="list"></div>
   </section>
@@ -190,6 +196,7 @@ function addItem(ul,f){
 
 async function show(f){
   current = f;
+  try{ localStorage.setItem('kuran.last', f.id); }catch(e){}
   const grp = document.getElementById('p-'+f.page); if(grp) grp.open = true;
   document.querySelectorAll('.item').forEach(el=>el.setAttribute('aria-current', el.id==='f-'+f.id ? 'true':'false'));
   document.getElementById('vtitle').textContent = `${f.sure} ${f.ayet} · ${f.titre} · Sayfa ${f.page}`;
@@ -270,9 +277,29 @@ btn.addEventListener('click', async ()=>{
   }finally{ btn.disabled = false; }
 });
 if('serviceWorker' in navigator){ window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{})); }
+// Şu anki sayfa: bu cihazda hatırlanır
+const PAGES=[...new Set(FICHES.map(f=>f.page))].sort((a,b)=>a-b);
+const cursel=document.getElementById('cursel');
+cursel.innerHTML=PAGES.map(p=>`<option value="${p}">Sayfa ${p}</option>`).join('');
+let curPage=null; try{ curPage=+localStorage.getItem('kuran.page')||null; }catch(e){}
+if(!PAGES.includes(curPage)) curPage=PAGES[PAGES.length-1];
+function markCurrent(){
+  document.querySelectorAll('.cur').forEach(el=>el.remove());
+  document.querySelectorAll('.group').forEach(g=>{ g.open = (g.id==='p-'+curPage); });
+  const h=document.querySelector('#p-'+curPage+' .ghead .prange'); if(h) h.insertAdjacentHTML('afterend','<span class="cur">Şu an</span>');
+  cursel.value=String(curPage);
+}
+function firstOf(p){ return FICHES.filter(f=>f.page===p).sort((a,b)=>a.ayet-b.ayet)[0]; }
+cursel.addEventListener('change',()=>{
+  curPage=+cursel.value; try{ localStorage.setItem('kuran.page',String(curPage)); }catch(e){}
+  markCurrent(); show(firstOf(curPage));
+  document.getElementById('p-'+curPage)?.scrollIntoView({behavior:'smooth',block:'start'});
+});
+markCurrent();
 const fromHash = FICHES.find(f=>'#'+f.id===location.hash);
-const lastFiche = [...FICHES].sort((a,b)=>a.page-b.page||a.ayet-b.ayet).pop();
-show(fromHash || lastFiche);
+let lastId=null; try{ lastId=localStorage.getItem('kuran.last'); }catch(e){}
+const lastSeen = FICHES.find(f=>f.id===lastId && f.page===curPage);
+show(fromHash || lastSeen || firstOf(curPage));
 </script>
 
 </body></html>
