@@ -1,0 +1,3357 @@
+[
+ {
+  "id": "bakara-020",
+  "sure": "Bakara",
+  "ayet": 20,
+  "titre": "Şimşek ayeti",
+  "ayet_ar": "يَكَادُ الْبَرْقُ يَخْطَفُ اَبْصَارَهُمْۜ كُلَّمَٓا اَضَٓاءَ لَهُمْ مَشَوْا ف۪يهِۙ وَاِذَٓا اَظْلَمَ عَلَيْهِمْ قَامُواۜ وَلَوْ شَٓاءَ اللّٰهُ لَذَهَبَ بِسَمْعِهِمْ وَاَبْصَارِهِمْۜ اِنَّ اللّٰهَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
+  "meal_label": "Meal (Diyanet):",
+  "meal": "Şimşeğin çakması neredeyse gözlerini alır; onları aydınlattıkça ışığında yürürler ve üzerlerine karanlık basınca durakalırlar. Allah dileseydi işitme ve görmelerini giderirdi. Doğrusu Allah her şeye Kadir'dir.",
+  "parcalar": [
+   {
+    "ar": "يَكَادُ الْبَرْقُ يَخْطَفُ اَبْصَارَهُمْ",
+    "tr": "Şimşek neredeyse gözlerini alacak.",
+    "kelimeler": [
+     [
+      "يَكَادُ",
+      "neredeyse",
+      ""
+     ],
+     [
+      "الْبَرْقُ",
+      "şimşek",
+      ""
+     ],
+     [
+      "يَخْطَفُ",
+      "kapıverecek",
+      ""
+     ],
+     [
+      "اَبْصَارَهُمْ",
+      "gözlerini",
+      "basiret"
+     ]
+    ]
+   },
+   {
+    "ar": "كُلَّمَٓا اَضَٓاءَ لَهُمْ مَشَوْا ف۪يهِ",
+    "tr": "Işık çaktıkça yürürler.",
+    "kelimeler": [
+     [
+      "كُلَّمَٓا",
+      "zaman",
+      "külliyat"
+     ],
+     [
+      "اَضَٓاءَ",
+      "aydınlattığı",
+      "ziya"
+     ],
+     [
+      "لَهُمْ",
+      "onları",
+      ""
+     ],
+     [
+      "مَشَوْا",
+      "yürürler",
+      ""
+     ],
+     [
+      "ف۪يهِ",
+      "o(nun ışığı)nda",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "وَاِذَٓا اَظْلَمَ عَلَيْهِمْ قَامُوا",
+    "tr": "Karanlık basınca dururlar.",
+    "kelimeler": [
+     [
+      "وَاِذَٓا",
+      "zaman",
+      ""
+     ],
+     [
+      "اَظْلَمَ",
+      "karanlık çöktüğü",
+      "zulmet"
+     ],
+     [
+      "عَلَيْهِمْ",
+      "üzerlerine",
+      ""
+     ],
+     [
+      "قَامُوا",
+      "dikilip kalırlar",
+      "kıyam, makam"
+     ]
+    ]
+   },
+   {
+    "ar": "وَلَوْ شَٓاءَ اللّٰهُ لَذَهَبَ بِسَمْعِهِمْ وَاَبْصَارِهِمْ",
+    "tr": "Allah dileseydi kulaklarını ve gözlerini alırdı.",
+    "kelimeler": [
+     [
+      "وَلَوْ",
+      "eğer",
+      ""
+     ],
+     [
+      "شَٓاءَ",
+      "dileseydi",
+      "inşallah"
+     ],
+     [
+      "اللّٰهُ",
+      "Allah",
+      ""
+     ],
+     [
+      "لَذَهَبَ",
+      "elbette götürürdü",
+      "mezhep"
+     ],
+     [
+      "بِسَمْعِهِمْ",
+      "işitmelerini",
+      "sema, istima"
+     ],
+     [
+      "وَاَبْصَارِهِمْ",
+      "ve görmelerini",
+      "basiret"
+     ]
+    ]
+   },
+   {
+    "ar": "اِنَّ اللّٰهَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
+    "tr": "Allah her şeye güç yetirir.",
+    "kelimeler": [
+     [
+      "اِنَّ",
+      "şüphesiz",
+      ""
+     ],
+     [
+      "اللّٰهَ",
+      "Allah'ın",
+      ""
+     ],
+     [
+      "عَلٰى",
+      "üzerine",
+      ""
+     ],
+     [
+      "كُلِّ",
+      "her",
+      "kül"
+     ],
+     [
+      "شَيْءٍ",
+      "şey",
+      "şey"
+     ],
+     [
+      "قَد۪يرٌ",
+      "gücü yeter",
+      "kader, kudret"
+     ]
+    ]
+   }
+  ],
+  "genel": "Münafıklar işlerine gelince birkaç adım atar, zorluk gelince dururlar. Allah istese onların görmesini ve işitmesini tamamen alabilir.",
+  "sayfa": 4,
+  "debut": "يَكَادُ الْبَرْقُ"
+ },
+ {
+  "id": "bakara-021",
+  "sure": "Bakara",
+  "ayet": 21,
+  "titre": "Kulluk çağrısı",
+  "ayet_ar": "يَٓا اَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذ۪ي خَلَقَكُمْ وَالَّذ۪ينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَۙ",
+  "meal_label": "Meal (Diyanet):",
+  "meal": "Ey insanlar! Sizi ve sizden öncekileri yaratan Rabbinize kulluk ediniz ki, O'na karşı gelmekten korunmuş olabilesiniz.",
+  "parcalar": [
+   {
+    "ar": "يَٓا اَيُّهَا النَّاسُ",
+    "tr": "Ey insanlar!",
+    "kelimeler": [
+     [
+      "يَٓا اَيُّهَا",
+      "ey",
+      ""
+     ],
+     [
+      "النَّاسُ",
+      "insanlar",
+      "insan, nas"
+     ]
+    ]
+   },
+   {
+    "ar": "اعْبُدُوا رَبَّكُمُ",
+    "tr": "Rabbinize kulluk edin,",
+    "kelimeler": [
+     [
+      "اعْبُدُوا",
+      "kulluk edin",
+      "ibadet, mabet"
+     ],
+     [
+      "رَبَّكُمُ",
+      "Rabbinize",
+      "Rab"
+     ]
+    ]
+   },
+   {
+    "ar": "الَّذ۪ي خَلَقَكُمْ وَالَّذ۪ينَ مِنْ قَبْلِكُمْ",
+    "tr": "sizi ve sizden öncekileri yaratan (Rabbinize).",
+    "kelimeler": [
+     [
+      "الَّذ۪ي",
+      "o ki",
+      ""
+     ],
+     [
+      "خَلَقَكُمْ",
+      "sizi yarattı",
+      "halk, mahluk"
+     ],
+     [
+      "وَالَّذ۪ينَ",
+      "ve o ki",
+      ""
+     ],
+     [
+      "مِنْ",
+      "(siz)-den",
+      ""
+     ],
+     [
+      "قَبْلِكُمْ",
+      "sizden öncekileri",
+      "kabul, kıble"
+     ]
+    ]
+   },
+   {
+    "ar": "لَعَلَّكُمْ تَتَّقُونَ",
+    "tr": "Umulur ki korunur, takva sahibi olursunuz.",
+    "kelimeler": [
+     [
+      "لَعَلَّكُمْ",
+      "belki",
+      ""
+     ],
+     [
+      "تَتَّقُونَ",
+      "korunursunuz",
+      "takva, muttaki"
+     ]
+    ]
+   }
+  ],
+  "genel": "Allah bütün insanlara sesleniyor: Sizi ve atalarınızı yaratan Rabbinize kulluk edin. Böylece O'nun azabından korunur, takva sahibi olursunuz.",
+  "sayfa": 4,
+  "debut": "يَٓا اَيُّهَا"
+ },
+ {
+  "id": "bakara-022",
+  "sure": "Bakara",
+  "ayet": 22,
+  "titre": "Yer, gök ve rızık",
+  "ayet_ar": "اَلَّذ۪ي جَعَلَ لَكُمُ الْاَرْضَ فِرَاشاً وَالسَّمَٓاءَ بِنَٓاءًۖ وَاَنْزَلَ مِنَ السَّمَٓاءِ مَٓاءً فَاَخْرَجَ بِه۪ مِنَ الثَّمَرَاتِ رِزْقاً لَكُمْۚ فَلَا تَجْعَلُوا لِلّٰهِ اَنْدَاداً وَاَنْتُمْ تَعْلَمُونَ",
+  "meal_label": "Meal (Diyanet):",
+  "meal": "O, yeryüzünü size bir döşek ve göğü de bir bina kıldı. Gökten su indirip onunla size rızık olmak üzere ürünler meydana getirdi; artık Allah'a, bile bile eş koşmayın.",
+  "parcalar": [
+   {
+    "ar": "اَلَّذ۪ي جَعَلَ لَكُمُ الْاَرْضَ فِرَاشاً",
+    "tr": "O ki yeryüzünü size döşek yaptı,",
+    "kelimeler": [
+     [
+      "اَلَّذ۪ي",
+      "O (Rabb) ki",
+      ""
+     ],
+     [
+      "جَعَلَ",
+      "kıldı",
+      ""
+     ],
+     [
+      "لَكُمُ",
+      "sizin için",
+      ""
+     ],
+     [
+      "الْاَرْضَ",
+      "yeri",
+      "arz"
+     ],
+     [
+      "فِرَاشاً",
+      "döşek",
+      "mefruşat"
+     ]
+    ]
+   },
+   {
+    "ar": "وَالسَّمَٓاءَ بِنَٓاءً",
+    "tr": "göğü de bir bina (tavan) yaptı,",
+    "kelimeler": [
+     [
+      "وَالسَّمَٓاءَ",
+      "ve göğü",
+      "sema"
+     ],
+     [
+      "بِنَٓاءً",
+      "bina",
+      "bina"
+     ]
+    ]
+   },
+   {
+    "ar": "وَاَنْزَلَ مِنَ السَّمَٓاءِ مَٓاءً",
+    "tr": "gökten su indirdi,",
+    "kelimeler": [
+     [
+      "وَاَنْزَلَ",
+      "ve indirdi",
+      "nüzul, menzil"
+     ],
+     [
+      "مِنَ",
+      "-ten",
+      ""
+     ],
+     [
+      "السَّمَٓاءِ",
+      "gök",
+      "sema"
+     ],
+     [
+      "مَٓاءً",
+      "su",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "فَاَخْرَجَ بِه۪ مِنَ الثَّمَرَاتِ رِزْقاً لَكُمْ",
+    "tr": "onunla ürünlerden size rızık çıkardı.",
+    "kelimeler": [
+     [
+      "فَاَخْرَجَ",
+      "çıkardı",
+      "hariç, ihracat"
+     ],
+     [
+      "بِه۪",
+      "onunla",
+      ""
+     ],
+     [
+      "مِنَ",
+      "-den",
+      ""
+     ],
+     [
+      "الثَّمَرَاتِ",
+      "çeşitli ürünler",
+      "semere"
+     ],
+     [
+      "رِزْقاً",
+      "rızık olarak",
+      "rızık"
+     ],
+     [
+      "لَكُمْ",
+      "sizin için",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "فَلَا تَجْعَلُوا لِلّٰهِ اَنْدَاداً",
+    "tr": "Öyleyse Allah'a ortaklar koşmayın,",
+    "kelimeler": [
+     [
+      "فَلَا",
+      "öyleyse",
+      ""
+     ],
+     [
+      "تَجْعَلُوا",
+      "koşmayın",
+      ""
+     ],
+     [
+      "لِلّٰهِ",
+      "Allah'a",
+      ""
+     ],
+     [
+      "اَنْدَاداً",
+      "eşler (denk)",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "وَاَنْتُمْ تَعْلَمُونَ",
+    "tr": "siz bilip dururken.",
+    "kelimeler": [
+     [
+      "وَاَنْتُمْ",
+      "ve siz de",
+      ""
+     ],
+     [
+      "تَعْلَمُونَ",
+      "bile bile",
+      "ilim, malum"
+     ]
+    ]
+   }
+  ],
+  "genel": "Yeri döşek, göğü tavan yapan, yağmurla ürünler çıkarıp sizi rızıklandıran Allah'tır. Bunu bildiğiniz halde O'na ortak koşmayın.",
+  "sayfa": 4,
+  "debut": "اَلَّذ۪ي جَعَلَ"
+ },
+ {
+  "id": "bakara-023",
+  "sure": "Bakara",
+  "ayet": 23,
+  "titre": "Meydan okuma",
+  "ayet_ar": "وَاِنْ كُنْتُمْ ف۪ي رَيْبٍ مِمَّا نَزَّلْنَا عَلٰى عَبْدِنَا فَأْتُوا بِسُورَةٍ مِنْ مِثْلِه۪ۖ وَادْعُوا شُهَدَٓاءَكُمْ مِنْ دُونِ اللّٰهِ اِنْ كُنْتُمْ صَادِق۪ينَ",
+  "meal_label": "Meal (Diyanet):",
+  "meal": "Kulumuza indirdiğimiz Kuran'dan şüphe ediyorsanız, siz de onun benzeri bir sure meydana getirin; eğer doğru sözlü iseniz, Allah'tan başka, güvendiklerinizi de yardıma çağırın.",
+  "parcalar": [
+   {
+    "ar": "وَاِنْ كُنْتُمْ ف۪ي رَيْبٍ",
+    "tr": "Eğer şüphe içindeyseniz,",
+    "kelimeler": [
+     [
+      "وَاِنْ",
+      "eğer",
+      ""
+     ],
+     [
+      "كُنْتُمْ",
+      "iseniz",
+      "kevn"
+     ],
+     [
+      "ف۪ي",
+      "içinde",
+      ""
+     ],
+     [
+      "رَيْبٍ",
+      "şüphe",
+      "reyb"
+     ]
+    ]
+   },
+   {
+    "ar": "مِمَّا نَزَّلْنَا عَلٰى عَبْدِنَا",
+    "tr": "kulumuza indirdiğimiz şeyden,",
+    "kelimeler": [
+     [
+      "مِمَّا",
+      "-den",
+      ""
+     ],
+     [
+      "نَزَّلْنَا",
+      "sana indirdiğimiz",
+      "nüzul, tenzil"
+     ],
+     [
+      "عَلٰى",
+      "-e",
+      ""
+     ],
+     [
+      "عَبْدِنَا",
+      "kulumuz (Muhammed)",
+      "abd, ibadet"
+     ]
+    ]
+   },
+   {
+    "ar": "فَأْتُوا بِسُورَةٍ مِنْ مِثْلِه۪",
+    "tr": "onun benzeri bir sure getirin,",
+    "kelimeler": [
+     [
+      "فَأْتُوا",
+      "haydi getirin",
+      ""
+     ],
+     [
+      "بِسُورَةٍ",
+      "bir sure",
+      "sure"
+     ],
+     [
+      "مِنْ مِثْلِه۪",
+      "onun gibi",
+      "misil, misal"
+     ]
+    ]
+   },
+   {
+    "ar": "وَادْعُوا شُهَدَٓاءَكُمْ مِنْ دُونِ اللّٰهِ",
+    "tr": "Allah'tan başka şahitlerinizi de çağırın,",
+    "kelimeler": [
+     [
+      "وَادْعُوا",
+      "ve çağırın",
+      "dua, davet"
+     ],
+     [
+      "شُهَدَٓاءَكُمْ",
+      "şahitlerinizi",
+      "şahit, şehadet"
+     ],
+     [
+      "مِنْ",
+      "-dan",
+      ""
+     ],
+     [
+      "دُونِ",
+      "başka",
+      ""
+     ],
+     [
+      "اللّٰهِ",
+      "Allah",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "اِنْ كُنْتُمْ صَادِق۪ينَ",
+    "tr": "eğer doğru sözlü iseniz.",
+    "kelimeler": [
+     [
+      "اِنْ",
+      "eğer",
+      ""
+     ],
+     [
+      "كُنْتُمْ",
+      "iseniz",
+      "kevn"
+     ],
+     [
+      "صَادِق۪ينَ",
+      "doğru",
+      "sadık, sıdk"
+     ]
+    ]
+   }
+  ],
+  "genel": "Kur'an'ın Allah'tan geldiğinden şüphe eden varsa, bütün yardımcılarını toplayıp onun benzeri tek bir sure getirsin.",
+  "sayfa": 4,
+  "debut": "وَاِنْ كُنْتُمْ"
+ },
+ {
+  "id": "bakara-024",
+  "sure": "Bakara",
+  "ayet": 24,
+  "titre": "Ateşten sakının",
+  "ayet_ar": "فَاِنْ لَمْ تَفْعَلُوا وَلَنْ تَفْعَلُوا فَاتَّقُوا النَّارَ الَّت۪ي وَقُودُهَا النَّاسُ وَالْحِجَارَةُۚ اُعِدَّتْ لِلْكَافِر۪ينَ",
+  "meal_label": "Meal (Diyanet):",
+  "meal": "Yapamazsanız ki yapamayacaksınız o takdirde, inkar edenler için hazırlanan ve yakıtı insanlarla taş olan ateşten sakının.",
+  "parcalar": [
+   {
+    "ar": "فَاِنْ لَمْ تَفْعَلُوا",
+    "tr": "Eğer yapamazsanız,",
+    "kelimeler": [
+     [
+      "فَاِنْ",
+      "yok eğer",
+      ""
+     ],
+     [
+      "لَمْ تَفْعَلُوا",
+      "yapmadınızsa",
+      "fiil, faaliyet"
+     ]
+    ]
+   },
+   {
+    "ar": "وَلَنْ تَفْعَلُوا",
+    "tr": "ki asla yapamayacaksınız,",
+    "kelimeler": [
+     [
+      "وَلَنْ تَفْعَلُوا",
+      "ki asla yapamayacaksınız",
+      "fiil"
+     ]
+    ]
+   },
+   {
+    "ar": "فَاتَّقُوا النَّارَ",
+    "tr": "o hâlde ateşten sakının,",
+    "kelimeler": [
+     [
+      "فَاتَّقُوا",
+      "o halde sakının",
+      "takva, müttaki"
+     ],
+     [
+      "النَّارَ",
+      "ateşten",
+      "nâr"
+     ]
+    ]
+   },
+   {
+    "ar": "الَّت۪ي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ",
+    "tr": "yakıtı insanlar ve taşlar olan,",
+    "kelimeler": [
+     [
+      "الَّت۪ي",
+      "ki",
+      ""
+     ],
+     [
+      "وَقُودُهَا",
+      "onun yakıtı",
+      ""
+     ],
+     [
+      "النَّاسُ",
+      "insanlar",
+      "nas"
+     ],
+     [
+      "وَالْحِجَارَةُ",
+      "ve taşlardır",
+      "hacer"
+     ]
+    ]
+   },
+   {
+    "ar": "اُعِدَّتْ لِلْكَافِر۪ينَ",
+    "tr": "kâfirler için hazırlanmıştır.",
+    "kelimeler": [
+     [
+      "اُعِدَّتْ",
+      "hazırlanmış",
+      "i'dad, idadi"
+     ],
+     [
+      "لِلْكَافِر۪ينَ",
+      "inkarcılar için",
+      "küfür, kâfir"
+     ]
+    ]
+   }
+  ],
+  "genel": "Bunu yapamazlar, asla da yapamayacaklar. O hâlde inkârcılar için hazırlanmış, yakıtı insanlar ve taşlar olan ateşten sakının.",
+  "sayfa": 4,
+  "debut": "فَاِنْ لَمْ"
+ },
+ {
+  "id": "bakara-025",
+  "sure": "Bakara",
+  "ayet": 25,
+  "sayfa": 5,
+  "titre": "Cennet müjdesi",
+  "ayet_ar": "وَبَشِّرِ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ اَنَّ لَهُمْ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُۜ كُلَّمَا رُزِقُوا مِنْهَا مِنْ ثَمَرَةٍ رِزْقاًۙ قَالُوا هٰذَا الَّذ۪ي رُزِقْنَا مِنْ قَبْلُ وَاُتُوا بِه۪ مُتَشَابِهاًۜ وَلَهُمْ ف۪يهَٓا اَزْوَاجٌ مُطَهَّرَةٌ وَهُمْ ف۪يهَا خَالِدُونَ",
+  "meal_label": "Meal (Diyanet):",
+  "meal": "İnananlar ve yararlı işler yapanlara, kendilerine altlarından ırmaklar akan cennetler olduğunu müjdele. Onlara buranın bir ürünü rızık olarak verildiğinde, \"Bu daha önce de rızıklandığımızdır\" derler. Bunlar, söylediklerinin benzerleri olarak sunulmuştur. Onlara orada tertemiz eşler vardır ve orada temelli kalırlar.",
+  "parcalar": [
+   {
+    "ar": "وَبَشِّرِ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ",
+    "tr": "İman edip salih ameller işleyenleri müjdele:",
+    "kelimeler": [
+     [
+      "وَبَشِّرِ",
+      "ve müjdele",
+      "beşaret, müjde"
+     ],
+     [
+      "الَّذ۪ينَ",
+      "kimseleri",
+      ""
+     ],
+     [
+      "اٰمَنُوا",
+      "inanan",
+      "iman, mümin"
+     ],
+     [
+      "وَعَمِلُوا",
+      "ve işleyen",
+      "amel"
+     ],
+     [
+      "الصَّالِحَاتِ",
+      "salih işler",
+      "salih, ıslah"
+     ]
+    ]
+   },
+   {
+    "ar": "اَنَّ لَهُمْ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ",
+    "tr": "altlarından ırmaklar akan cennetler onlarındır.",
+    "kelimeler": [
+     [
+      "اَنَّ",
+      "muhakkak",
+      ""
+     ],
+     [
+      "لَهُمْ",
+      "onlar için vardır",
+      ""
+     ],
+     [
+      "جَنَّاتٍ",
+      "cennetler",
+      "cennet"
+     ],
+     [
+      "تَجْر۪ي",
+      "akan",
+      "cereyan, mecra"
+     ],
+     [
+      "مِنْ",
+      "-ndan",
+      ""
+     ],
+     [
+      "تَحْتِهَا",
+      "altları",
+      "tahtelbahir"
+     ],
+     [
+      "الْاَنْهَارُ",
+      "ırmaklar",
+      "nehir"
+     ]
+    ]
+   },
+   {
+    "ar": "كُلَّمَا رُزِقُوا مِنْهَا مِنْ ثَمَرَةٍ رِزْقاً",
+    "tr": "Oradan kendilerine ne zaman bir meyve rızık olarak verilse,",
+    "kelimeler": [
+     [
+      "كُلَّمَا",
+      "her",
+      "külliyat"
+     ],
+     [
+      "رُزِقُوا",
+      "rızıklandırıldıklarında",
+      "rızık"
+     ],
+     [
+      "مِنْهَا",
+      "onlardaki",
+      ""
+     ],
+     [
+      "مِنْ",
+      "-den",
+      ""
+     ],
+     [
+      "ثَمَرَةٍ",
+      "meyve",
+      "semere"
+     ],
+     [
+      "رِزْقاً",
+      "rızk olarak",
+      "rızık"
+     ]
+    ]
+   },
+   {
+    "ar": "قَالُوا هٰذَا الَّذ۪ي رُزِقْنَا مِنْ قَبْلُ",
+    "tr": "“Bu, daha önce de bize verilen rızık” derler.",
+    "kelimeler": [
+     [
+      "قَالُوا",
+      "derler",
+      "kavil, makale"
+     ],
+     [
+      "هٰذَا",
+      "bu",
+      ""
+     ],
+     [
+      "الَّذ۪ي",
+      "şeydir",
+      ""
+     ],
+     [
+      "رُزِقْنَا",
+      "rızıklandığımız",
+      "rızık"
+     ],
+     [
+      "مِنْ",
+      "-den",
+      ""
+     ],
+     [
+      "قَبْلُ",
+      "daha önce",
+      "kabul, kıble"
+     ]
+    ]
+   },
+   {
+    "ar": "وَاُتُوا بِه۪ مُتَشَابِهاً",
+    "tr": "O rızık onlara birbirine benzer olarak sunulur.",
+    "kelimeler": [
+     [
+      "وَاُتُوا",
+      "verilmiştir",
+      ""
+     ],
+     [
+      "بِه۪",
+      "onlara",
+      ""
+     ],
+     [
+      "مُتَشَابِهاً",
+      "ona benzer",
+      "teşbih, müteşabih"
+     ]
+    ]
+   },
+   {
+    "ar": "وَلَهُمْ ف۪يهَٓا اَزْوَاجٌ مُطَهَّرَةٌ",
+    "tr": "Orada onlar için tertemiz eşler vardır,",
+    "kelimeler": [
+     [
+      "وَلَهُمْ",
+      "onlar için vardır",
+      ""
+     ],
+     [
+      "ف۪يهَٓا",
+      "orada",
+      ""
+     ],
+     [
+      "اَزْوَاجٌ",
+      "eşler",
+      "zevç, zevce"
+     ],
+     [
+      "مُطَهَّرَةٌ",
+      "tertemiz",
+      "tahir, taharet"
+     ]
+    ]
+   },
+   {
+    "ar": "وَهُمْ ف۪يهَا خَالِدُونَ",
+    "tr": "ve onlar orada ebedî kalacaklardır.",
+    "kelimeler": [
+     [
+      "وَهُمْ",
+      "ve onlar",
+      ""
+     ],
+     [
+      "ف۪يهَا",
+      "orada",
+      ""
+     ],
+     [
+      "خَالِدُونَ",
+      "ebedi kalacaklardır",
+      "hulud, Halit"
+     ]
+    ]
+   }
+  ],
+  "genel": "İman edip iyi işler yapanlara cennet müjdeleniyor: altından ırmaklar akan bahçeler, dünyadakine benzeyen ama çok daha güzel meyveler, tertemiz eşler ve orada sonsuza dek kalış.",
+  "debut": "وَبَشِّرِ الَّذ۪ينَ"
+ },
+ {
+  "id": "bakara-026",
+  "sure": "Bakara",
+  "ayet": 26,
+  "sayfa": 5,
+  "titre": "Sivrisinek misali",
+  "ayet_ar": "اِنَّ اللّٰهَ لَا يَسْتَحْـي۪ٓ اَنْ يَضْرِبَ مَثَلاً مَا بَعُوضَةً فَمَا فَوْقَهَاۜ فَاَمَّا الَّذ۪ينَ اٰمَنُوا فَيَعْلَمُونَ اَنَّهُ الْحَقُّ مِنْ رَبِّهِمْۚ وَاَمَّا الَّذ۪ينَ كَفَرُوا فَيَقُولُونَ مَاذَٓا اَرَادَ اللّٰهُ بِهٰذَا مَثَلاًۢ يُضِلُّ بِه۪ كَث۪يراً وَيَهْد۪ي بِه۪ كَث۪يراًۜ وَمَا يُضِلُّ بِه۪ٓ اِلَّا الْفَاسِق۪ينَۙ",
+  "meal_label": "Meal (Diyanet):",
+  "meal": "Allah sivrisineği ve onun üstününü misal olarak vermekten çekinmez. İnananlar bunun Rablerinden bir gerçek olduğunu bilirler. İnkar edenler ise \"Allah bu misalle neyi murad etti?\" derler. O, bu misalle birçoğunu saptırır, birçoğunu da yola getirir. Onunla saptırdığı yalnız fasıklardır.",
+  "parcalar": [
+   {
+    "ar": "اِنَّ اللّٰهَ لَا يَسْتَحْـي۪ٓ اَنْ يَضْرِبَ مَثَلاً",
+    "tr": "Şüphesiz Allah bir misal vermekten çekinmez:",
+    "kelimeler": [
+     [
+      "اِنَّ",
+      "muhakkak",
+      ""
+     ],
+     [
+      "اللّٰهَ",
+      "Allah",
+      ""
+     ],
+     [
+      "لَا",
+      "değildir",
+      ""
+     ],
+     [
+      "يَسْتَحْـي۪ٓ",
+      "çekinecek",
+      "haya"
+     ],
+     [
+      "اَنْ يَضْرِبَ",
+      "misal vermekten",
+      "darbımesel"
+     ],
+     [
+      "مَثَلاً",
+      "bir örneği",
+      "mesel, misal"
+     ]
+    ]
+   },
+   {
+    "ar": "مَا بَعُوضَةً فَمَا فَوْقَهَا",
+    "tr": "bir sivrisinek, hatta onun da üstündeki.",
+    "kelimeler": [
+     [
+      "مَا",
+      "gibi",
+      ""
+     ],
+     [
+      "بَعُوضَةً",
+      "bir sivrisineği",
+      ""
+     ],
+     [
+      "فَمَا",
+      "hatta olanı",
+      ""
+     ],
+     [
+      "فَوْقَهَا",
+      "onun da üstünde",
+      "fevkalade"
+     ]
+    ]
+   },
+   {
+    "ar": "فَاَمَّا الَّذ۪ينَ اٰمَنُوا فَيَعْلَمُونَ اَنَّهُ الْحَقُّ مِنْ رَبِّهِمْ",
+    "tr": "İman edenler bunun Rablerinden gelen gerçek olduğunu bilirler.",
+    "kelimeler": [
+     [
+      "فَاَمَّا",
+      "gerçekten",
+      ""
+     ],
+     [
+      "الَّذ۪ينَ",
+      "kimseler",
+      ""
+     ],
+     [
+      "اٰمَنُوا",
+      "inanan",
+      "iman, mümin"
+     ],
+     [
+      "فَيَعْلَمُونَ",
+      "bilirler",
+      "ilim, malum"
+     ],
+     [
+      "اَنَّهُ",
+      "kesinlikle o",
+      ""
+     ],
+     [
+      "الْحَقُّ",
+      "haktır (gerçektir)",
+      "hak, hakikat"
+     ],
+     [
+      "مِنْ رَبِّهِمْ",
+      "Rablerinden",
+      "Rab"
+     ]
+    ]
+   },
+   {
+    "ar": "وَاَمَّا الَّذ۪ينَ كَفَرُوا فَيَقُولُونَ",
+    "tr": "İnkâr edenler ise şöyle derler:",
+    "kelimeler": [
+     [
+      "وَاَمَّا",
+      "ve ise",
+      ""
+     ],
+     [
+      "الَّذ۪ينَ كَفَرُوا",
+      "inkar edenler",
+      "küfür, kâfir"
+     ],
+     [
+      "فَيَقُولُونَ",
+      "derler ki",
+      "kavil, makale"
+     ]
+    ]
+   },
+   {
+    "ar": "مَاذَٓا اَرَادَ اللّٰهُ بِهٰذَا مَثَلاً",
+    "tr": "“Allah bu misalle ne demek istedi?”",
+    "kelimeler": [
+     [
+      "مَاذَٓا",
+      "neyi",
+      ""
+     ],
+     [
+      "اَرَادَ",
+      "istedi (kasdetti)",
+      "irade, murat"
+     ],
+     [
+      "اللّٰهُ",
+      "Allah",
+      ""
+     ],
+     [
+      "بِهٰذَا",
+      "bu",
+      ""
+     ],
+     [
+      "مَثَلاً",
+      "misalle",
+      "misal"
+     ]
+    ]
+   },
+   {
+    "ar": "يُضِلُّ بِه۪ كَث۪يراً وَيَهْد۪ي بِه۪ كَث۪يراً",
+    "tr": "Onunla birçoğunu saptırır, birçoğunu da doğru yola iletir.",
+    "kelimeler": [
+     [
+      "يُضِلُّ",
+      "saptırır",
+      "dalalet"
+     ],
+     [
+      "بِه۪",
+      "onunla",
+      ""
+     ],
+     [
+      "كَث۪يراً",
+      "bir çoğunu",
+      "kesret"
+     ],
+     [
+      "وَيَهْد۪ي",
+      "ve yine yola getirir",
+      "hidayet"
+     ],
+     [
+      "بِه۪",
+      "onunla",
+      ""
+     ],
+     [
+      "كَث۪يراً",
+      "bir çoğunu",
+      "kesret"
+     ]
+    ]
+   },
+   {
+    "ar": "وَمَا يُضِلُّ بِه۪ٓ اِلَّا الْفَاسِق۪ينَ",
+    "tr": "Onunla ancak yoldan çıkanları saptırır.",
+    "kelimeler": [
+     [
+      "وَمَا يُضِلُّ",
+      "saptırmaz",
+      "dalalet"
+     ],
+     [
+      "بِه۪ٓ",
+      "onunla",
+      ""
+     ],
+     [
+      "اِلَّا",
+      "başkasını",
+      ""
+     ],
+     [
+      "الْفَاسِق۪ينَ",
+      "fasıklardan",
+      "fısk, fasık"
+     ]
+    ]
+   }
+  ],
+  "genel": "Allah, sivrisinek gibi küçük bir şeyi bile misal vermekten çekinmez. Müminler bu misallerden ders alır, inkârcılar ise alay eder. Aynı misal, kalbi açık olanı doğru yola iletir, yoldan çıkmış olanı ise daha da saptırır.",
+  "debut": "اِنَّ اللّٰهَ"
+ },
+ {
+  "id": "bakara-027",
+  "sure": "Bakara",
+  "ayet": 27,
+  "sayfa": 5,
+  "titre": "Ahdi bozanlar",
+  "ayet_ar": "اَلَّذ۪ينَ يَنْقُضُونَ عَهْدَ اللّٰهِ مِنْ بَعْدِ م۪يثَاقِه۪ۖ وَيَقْطَعُونَ مَٓا اَمَرَ اللّٰهُ بِه۪ٓ اَنْ يُوصَلَ وَيُفْسِدُونَ فِي الْاَرْضِۜ اُو۬لٰٓئِكَ هُمُ الْخَاسِرُونَ",
+  "meal_label": "Meal (Diyanet):",
+  "meal": "Onlar, Allah'a verdikleri sözü, pekiştirilmesinden sonra bozan, Allah'ın korunmasını emrettiği bağları (iman, akrabalık, beşeri ve ahlaki bütün ilişkileri) koparan ve yeryüzünde bozgunculuk yapan kimselerdir. İşte onlar ziyana uğrayanların ta kendileridir.",
+  "parcalar": [
+   {
+    "ar": "اَلَّذ۪ينَ يَنْقُضُونَ عَهْدَ اللّٰهِ مِنْ بَعْدِ م۪يثَاقِه۪",
+    "tr": "Onlar, Allah'a verdikleri sözü, sağlamlaştırıldıktan sonra bozarlar.",
+    "kelimeler": [
+     [
+      "اَلَّذ۪ينَ",
+      "onlar ki",
+      ""
+     ],
+     [
+      "يَنْقُضُونَ",
+      "bozarlar",
+      "nakz, nakız"
+     ],
+     [
+      "عَهْدَ",
+      "sözü",
+      "ahit, taahhüt"
+     ],
+     [
+      "اللّٰهِ",
+      "Allah'a",
+      ""
+     ],
+     [
+      "مِنْ بَعْدِ",
+      "-dan sonra",
+      "ba'de"
+     ],
+     [
+      "م۪يثَاقِه۪",
+      "söz verip bağlandıktan",
+      "misak, vesika"
+     ]
+    ]
+   },
+   {
+    "ar": "وَيَقْطَعُونَ مَٓا اَمَرَ اللّٰهُ بِه۪ٓ اَنْ يُوصَلَ",
+    "tr": "Allah'ın birleştirilmesini emrettiği bağları koparırlar,",
+    "kelimeler": [
+     [
+      "وَيَقْطَعُونَ",
+      "ve keserler",
+      "kat', kati"
+     ],
+     [
+      "مَٓا",
+      "şeyi",
+      ""
+     ],
+     [
+      "اَمَرَ",
+      "emrettiği",
+      "emir, âmir"
+     ],
+     [
+      "اللّٰهُ",
+      "Allah'ın",
+      ""
+     ],
+     [
+      "بِه۪ٓ",
+      "kendisiyle",
+      ""
+     ],
+     [
+      "اَنْ يُوصَلَ",
+      "birleştirilmesini",
+      "vuslat, vasıl"
+     ]
+    ]
+   },
+   {
+    "ar": "وَيُفْسِدُونَ فِي الْاَرْضِ",
+    "tr": "ve yeryüzünde bozgunculuk yaparlar.",
+    "kelimeler": [
+     [
+      "وَيُفْسِدُونَ",
+      "ve bozgunculuk yaparlar",
+      "fesat, müfsit"
+     ],
+     [
+      "فِي الْاَرْضِ",
+      "yeryüzünde",
+      "arz"
+     ]
+    ]
+   },
+   {
+    "ar": "اُو۬لٰٓئِكَ هُمُ الْخَاسِرُونَ",
+    "tr": "İşte onlar ziyana uğrayanların ta kendileridir.",
+    "kelimeler": [
+     [
+      "اُو۬لٰٓئِكَ",
+      "işte onlar",
+      ""
+     ],
+     [
+      "هُمُ",
+      "onlardır",
+      ""
+     ],
+     [
+      "الْخَاسِرُونَ",
+      "ziyana uğrayanlar",
+      "hüsran, hasar"
+     ]
+    ]
+   }
+  ],
+  "genel": "Bu ayet, önceki ayette geçen fasıkları (yoldan çıkanları) tanıtır: Allah'a verdikleri sözü bozarlar, korunması emredilen bağları (iman, akrabalık, insanlar arası ilişkiler) koparırlar ve yeryüzünde fesat çıkarırlar. Asıl zarara uğrayanlar onlardır.",
+  "debut": "اَلَّذ۪ينَ يَنْقُضُونَ"
+ },
+ {
+  "id": "bakara-028",
+  "sure": "Bakara",
+  "ayet": 28,
+  "sayfa": 5,
+  "titre": "Ölüm ve diriliş",
+  "ayet_ar": "كَيْفَ تَكْفُرُونَ بِاللّٰهِ وَكُنْتُمْ اَمْوَاتاً فَاَحْيَاكُمْۚ ثُمَّ يُم۪يتُكُمْ ثُمَّ يُحْي۪يكُمْ ثُمَّ اِلَيْهِ تُرْجَعُونَ",
+  "meal_label": "Meal (Diyanet):",
+  "meal": "Siz cansız (henüz yok) iken sizi dirilten (dünyaya getiren) Allah'ı nasıl inkâr ediyorsunuz? Sonra sizi öldürecek, sonra diriltecek, sonra da O'na döndürüleceksiniz.",
+  "parcalar": [
+   {
+    "ar": "كَيْفَ تَكْفُرُونَ بِاللّٰهِ",
+    "tr": "Allah'ı nasıl inkâr edersiniz?",
+    "kelimeler": [
+     [
+      "كَيْفَ",
+      "nasıl",
+      "keyfiyet"
+     ],
+     [
+      "تَكْفُرُونَ",
+      "inkâr edersiniz",
+      "küfür, kâfir"
+     ],
+     [
+      "بِاللّٰهِ",
+      "Allah'ı",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "وَكُنْتُمْ اَمْوَاتاً فَاَحْيَاكُمْ",
+    "tr": "Siz ölüler (cansız) iken O size hayat verdi.",
+    "kelimeler": [
+     [
+      "وَكُنْتُمْ",
+      "siz iken",
+      "kevn"
+     ],
+     [
+      "اَمْوَاتاً",
+      "ölüler",
+      "mevta, mevt"
+     ],
+     [
+      "فَاَحْيَاكُمْ",
+      "O sizi diriltti",
+      "hayat, ihya"
+     ]
+    ]
+   },
+   {
+    "ar": "ثُمَّ يُم۪يتُكُمْ ثُمَّ يُحْي۪يكُمْ",
+    "tr": "Sonra sizi öldürecek, sonra yeniden diriltecek.",
+    "kelimeler": [
+     [
+      "ثُمَّ",
+      "sonra",
+      ""
+     ],
+     [
+      "يُم۪يتُكُمْ",
+      "sizi öldürecek",
+      "mevt, memat"
+     ],
+     [
+      "ثُمَّ",
+      "sonra",
+      ""
+     ],
+     [
+      "يُحْي۪يكُمْ",
+      "sizi diriltecek",
+      "ihya, hayat"
+     ]
+    ]
+   },
+   {
+    "ar": "ثُمَّ اِلَيْهِ تُرْجَعُونَ",
+    "tr": "Sonra da O'na döndürüleceksiniz.",
+    "kelimeler": [
+     [
+      "ثُمَّ",
+      "sonra",
+      ""
+     ],
+     [
+      "اِلَيْهِ",
+      "O'na",
+      ""
+     ],
+     [
+      "تُرْجَعُونَ",
+      "döndürüleceksiniz",
+      "rücu, merci"
+     ]
+    ]
+   }
+  ],
+  "genel": "İnsanın hayat yolculuğu dört adımda anlatılır: yokken var edildi, bu dünyada ölecek, ahirette yeniden diriltilecek ve sonunda Allah'a dönecek. Hayatı veren de alan da O iken, O'nu inkâr etmek nasıl mümkün olabilir?",
+  "debut": "كَيْفَ تَكْفُرُونَ"
+ },
+ {
+  "id": "bakara-029",
+  "sure": "Bakara",
+  "ayet": 29,
+  "sayfa": 5,
+  "titre": "Yedi gök",
+  "ayet_ar": "هُوَ الَّذ۪ي خَلَقَ لَكُمْ مَا فِي الْاَرْضِ جَم۪يعاً ثُمَّ اسْتَوٰٓى اِلَى السَّمَٓاءِ فَسَوّٰيهُنَّ سَبْعَ سَمٰوَاتٍۜ وَهُوَ بِكُلِّ شَيْءٍ عَل۪يمٌ",
+  "meal_label": "Meal (Diyanet):",
+  "meal": "O, yeryüzünde olanların hepsini sizin için yaratan, sonra göğe yönelip onları yedi gök halinde düzenleyendir. O, her şeyi hakkıyla bilendir.",
+  "parcalar": [
+   {
+    "ar": "هُوَ الَّذ۪ي خَلَقَ لَكُمْ مَا فِي الْاَرْضِ جَم۪يعاً",
+    "tr": "O, yeryüzünde ne varsa hepsini sizin için yaratandır.",
+    "kelimeler": [
+     [
+      "هُوَ",
+      "O",
+      ""
+     ],
+     [
+      "الَّذ۪ي",
+      "ki",
+      ""
+     ],
+     [
+      "خَلَقَ",
+      "yarattı",
+      "halk, mahlûk"
+     ],
+     [
+      "لَكُمْ",
+      "sizin için",
+      ""
+     ],
+     [
+      "مَا فِي الْاَرْضِ",
+      "yeryüzünde ne varsa",
+      "arz"
+     ],
+     [
+      "جَم۪يعاً",
+      "hepsini",
+      "cem, cemiyet"
+     ]
+    ]
+   },
+   {
+    "ar": "ثُمَّ اسْتَوٰٓى اِلَى السَّمَٓاءِ",
+    "tr": "Sonra göğe yöneldi,",
+    "kelimeler": [
+     [
+      "ثُمَّ",
+      "sonra",
+      ""
+     ],
+     [
+      "اسْتَوٰٓى",
+      "yöneldi",
+      "istiva, müsavi"
+     ],
+     [
+      "اِلَى السَّمَٓاءِ",
+      "göğe",
+      "sema"
+     ]
+    ]
+   },
+   {
+    "ar": "فَسَوّٰيهُنَّ سَبْعَ سَمٰوَاتٍ",
+    "tr": "ve onları yedi gök olarak düzenledi.",
+    "kelimeler": [
+     [
+      "فَسَوّٰيهُنَّ",
+      "onları düzenledi",
+      "tesviye, seviye"
+     ],
+     [
+      "سَبْعَ",
+      "yedi",
+      ""
+     ],
+     [
+      "سَمٰوَاتٍ",
+      "gök (olarak)",
+      "semavat, semavi"
+     ]
+    ]
+   },
+   {
+    "ar": "وَهُوَ بِكُلِّ شَيْءٍ عَل۪يمٌ",
+    "tr": "O, her şeyi hakkıyla bilendir.",
+    "kelimeler": [
+     [
+      "وَهُوَ",
+      "ve O",
+      ""
+     ],
+     [
+      "بِكُلِّ",
+      "her",
+      ""
+     ],
+     [
+      "شَيْءٍ",
+      "şeyi",
+      "şey, eşya"
+     ],
+     [
+      "عَل۪يمٌ",
+      "bilendir",
+      "ilim, âlim"
+     ]
+    ]
+   }
+  ],
+  "genel": "Yeryüzündeki her şey insanın yararına yaratılmıştır; gökler de yedi kat olarak düzenlenmiştir. Bütün bunları yaratan Allah her şeyi en ince ayrıntısına kadar bilir. Bu nimetler insanı O'na şükretmeye ve kulluk etmeye çağırır.",
+  "debut": "هُوَ الَّذ۪ي"
+ },
+ {
+  "id": "bakara-030",
+  "ayet": 30,
+  "titre": "Yeryüzünde halife",
+  "debut": "وَاِذْ قَالَ رَبُّكَ",
+  "ayet_ar": "وَاِذْ قَالَ رَبُّكَ لِلْمَلٰٓئِكَةِ اِنّ۪ي جَاعِلٌ فِي الْاَرْضِ خَل۪يفَةًۜ قَالُٓوا اَتَجْعَلُ ف۪يهَا مَنْ يُفْسِدُ ف۪يهَا وَيَسْفِكُ الدِّمَٓاءَۚ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَۜ قَالَ اِنّ۪ٓي اَعْلَمُ مَا لَا تَعْلَمُونَ",
+  "meal": "Hani Rabbin meleklere: “Ben yeryüzünde bir halife yaratacağım” demişti. Onlar: “Orada bozgunculuk yapacak ve kan dökecek birini mi yaratacaksın? Oysa biz Seni hamdinle tesbih ediyor ve Seni takdis ediyoruz” dediler. Allah: “Ben sizin bilmediğinizi bilirim” buyurdu.",
+  "parcalar": [
+   {
+    "ar": "وَاِذْ قَالَ رَبُّكَ لِلْمَلٰٓئِكَةِ",
+    "tr": "Hani Rabbin meleklere dedi ki:",
+    "kelimeler": [
+     [
+      "وَاِذْ",
+      "hani",
+      ""
+     ],
+     [
+      "قَالَ",
+      "dedi",
+      "kavl"
+     ],
+     [
+      "رَبُّكَ",
+      "Rabbin",
+      "Rab"
+     ],
+     [
+      "لِلْمَلٰٓئِكَةِ",
+      "meleklere",
+      "melek, melaike"
+     ]
+    ]
+   },
+   {
+    "ar": "اِنّ۪ي جَاعِلٌ فِي الْاَرْضِ خَل۪يفَةً",
+    "tr": "“Ben yeryüzünde bir halife yaratacağım.”",
+    "kelimeler": [
+     [
+      "اِنّ۪ي",
+      "şüphesiz ben",
+      ""
+     ],
+     [
+      "جَاعِلٌ",
+      "kılacağım",
+      "cail"
+     ],
+     [
+      "فِي الْاَرْضِ",
+      "yeryüzünde",
+      "arz"
+     ],
+     [
+      "خَل۪يفَةً",
+      "bir halife",
+      "halife, hilafet"
+     ]
+    ]
+   },
+   {
+    "ar": "قَالُٓوا اَتَجْعَلُ ف۪يهَا مَنْ يُفْسِدُ ف۪يهَا وَيَسْفِكُ الدِّمَٓاءَ",
+    "tr": "Dediler: “Orada bozgunculuk yapacak ve kan dökecek birini mi yaratacaksın?",
+    "kelimeler": [
+     [
+      "قَالُٓوا",
+      "dediler",
+      "kavl"
+     ],
+     [
+      "اَتَجْعَلُ",
+      "kılacak mısın?",
+      ""
+     ],
+     [
+      "ف۪يهَا",
+      "orada",
+      ""
+     ],
+     [
+      "مَنْ",
+      "birini",
+      ""
+     ],
+     [
+      "يُفْسِدُ",
+      "bozgunculuk yapan",
+      "fesat, müfsit"
+     ],
+     [
+      "وَيَسْفِكُ",
+      "ve döken",
+      "sefk"
+     ],
+     [
+      "الدِّمَٓاءَ",
+      "kanları",
+      "dem"
+     ]
+    ]
+   },
+   {
+    "ar": "وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ",
+    "tr": "Oysa biz Seni hamdinle tesbih ediyor ve Seni takdis ediyoruz.”",
+    "kelimeler": [
+     [
+      "وَنَحْنُ",
+      "oysa biz",
+      ""
+     ],
+     [
+      "نُسَبِّحُ",
+      "tesbih ediyoruz",
+      "tesbih, sübhan"
+     ],
+     [
+      "بِحَمْدِكَ",
+      "hamdinle",
+      "hamd"
+     ],
+     [
+      "وَنُقَدِّسُ",
+      "ve takdis ediyoruz",
+      "kudüs, mukaddes, takdis"
+     ],
+     [
+      "لَكَ",
+      "Seni",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "قَالَ اِنّ۪ٓي اَعْلَمُ مَا لَا تَعْلَمُونَ",
+    "tr": "Buyurdu: “Ben sizin bilmediğinizi bilirim.”",
+    "kelimeler": [
+     [
+      "قَالَ",
+      "buyurdu",
+      "kavl"
+     ],
+     [
+      "اِنّ۪ٓي",
+      "şüphesiz ben",
+      ""
+     ],
+     [
+      "اَعْلَمُ",
+      "bilirim",
+      "ilim, âlim"
+     ],
+     [
+      "مَا",
+      "şeyi",
+      ""
+     ],
+     [
+      "لَا تَعْلَمُونَ",
+      "bilmediğiniz",
+      "ilim"
+     ]
+    ]
+   }
+  ],
+  "genel": "Allah, yeryüzüne insanı halife (sorumlu temsilci) olarak yerleştireceğini meleklere bildirir. Melekler insanın bozgunculuk ve kan dökme ihtimalini sorar; itiraz değil, hikmeti öğrenmek içindir. Allah'ın cevabı kısadır: insandaki gizli değeri ve hikmeti yalnız O bilir.",
+  "sure": "Bakara",
+  "sayfa": 6,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-031",
+  "ayet": 31,
+  "titre": "İsimlerin öğretilmesi",
+  "debut": "وَعَلَّمَ اٰدَمَ",
+  "ayet_ar": "وَعَلَّمَ اٰدَمَ الْاَسْمَٓاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلٰٓئِكَةِ فَقَالَ اَنْبِؤُن۪ي بِاَسْمَٓاءِ هٰٓؤُلَٓاءِ اِنْ كُنْتُمْ صَادِق۪ينَ",
+  "meal": "Allah Âdem'e bütün isimleri öğretti. Sonra onları meleklere gösterip: “Eğer doğru söyleyenlerseniz, bunların isimlerini bana bildirin” dedi.",
+  "parcalar": [
+   {
+    "ar": "وَعَلَّمَ اٰدَمَ الْاَسْمَٓاءَ كُلَّهَا",
+    "tr": "Âdem'e isimlerin hepsini öğretti.",
+    "kelimeler": [
+     [
+      "وَعَلَّمَ",
+      "ve öğretti",
+      "ilim, talim, muallim"
+     ],
+     [
+      "اٰدَمَ",
+      "Âdem'e",
+      ""
+     ],
+     [
+      "الْاَسْمَٓاءَ",
+      "isimleri",
+      "isim, esma"
+     ],
+     [
+      "كُلَّهَا",
+      "hepsini",
+      "küll"
+     ]
+    ]
+   },
+   {
+    "ar": "ثُمَّ عَرَضَهُمْ عَلَى الْمَلٰٓئِكَةِ",
+    "tr": "Sonra onları meleklere gösterdi,",
+    "kelimeler": [
+     [
+      "ثُمَّ",
+      "sonra",
+      ""
+     ],
+     [
+      "عَرَضَهُمْ",
+      "onları sundu",
+      "arz etmek"
+     ],
+     [
+      "عَلَى الْمَلٰٓئِكَةِ",
+      "meleklere",
+      "melaike"
+     ]
+    ]
+   },
+   {
+    "ar": "فَقَالَ اَنْبِؤُن۪ي بِاَسْمَٓاءِ هٰٓؤُلَٓاءِ",
+    "tr": "ve dedi: “Bunların isimlerini bana haber verin,",
+    "kelimeler": [
+     [
+      "فَقَالَ",
+      "ve dedi",
+      "kavl"
+     ],
+     [
+      "اَنْبِؤُن۪ي",
+      "bana haber verin",
+      "nebe, nebi"
+     ],
+     [
+      "بِاَسْمَٓاءِ",
+      "isimlerini",
+      "esma"
+     ],
+     [
+      "هٰٓؤُلَٓاءِ",
+      "bunların",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "اِنْ كُنْتُمْ صَادِق۪ينَ",
+    "tr": "eğer doğru söyleyenlerseniz.”",
+    "kelimeler": [
+     [
+      "اِنْ",
+      "eğer",
+      ""
+     ],
+     [
+      "كُنْتُمْ",
+      "iseniz",
+      ""
+     ],
+     [
+      "صَادِق۪ينَ",
+      "doğru söyleyenler",
+      "sıdk, sadık"
+     ]
+    ]
+   }
+  ],
+  "genel": "Allah, Âdem'e varlıkların isimlerini, yani onları tanıma ve bilme yeteneğini öğretti. Melekler bu bilgiye sahip değildi. İnsanın üstünlüğü ilim ve öğrenme kabiliyetindedir.",
+  "sure": "Bakara",
+  "sayfa": 6,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-032",
+  "ayet": 32,
+  "titre": "Meleklerin cevabı",
+  "debut": "قَالُوا سُبْحَانَكَ",
+  "ayet_ar": "قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَاۜ اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+  "meal": "Melekler: “Seni tesbih ederiz; bize öğrettiğinden başka hiçbir bilgimiz yoktur. Şüphesiz Sen her şeyi bilensin, hüküm ve hikmet sahibisin” dediler.",
+  "parcalar": [
+   {
+    "ar": "قَالُوا سُبْحَانَكَ",
+    "tr": "Dediler: “Sen eksikliklerden uzaksın!",
+    "kelimeler": [
+     [
+      "قَالُوا",
+      "dediler",
+      "kavl"
+     ],
+     [
+      "سُبْحَانَكَ",
+      "Seni tesbih ederiz",
+      "sübhanallah, tesbih"
+     ]
+    ]
+   },
+   {
+    "ar": "لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَا",
+    "tr": "Bize öğrettiğinden başka bilgimiz yoktur.",
+    "kelimeler": [
+     [
+      "لَا عِلْمَ",
+      "hiç bilgi yok",
+      "ilim"
+     ],
+     [
+      "لَنَٓا",
+      "bizim",
+      ""
+     ],
+     [
+      "اِلَّا",
+      "ancak",
+      ""
+     ],
+     [
+      "مَا",
+      "şey",
+      ""
+     ],
+     [
+      "عَلَّمْتَنَا",
+      "bize öğrettiğin",
+      "talim"
+     ]
+    ]
+   },
+   {
+    "ar": "اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+    "tr": "Şüphesiz Sen her şeyi bilensin, hikmet sahibisin.”",
+    "kelimeler": [
+     [
+      "اِنَّكَ",
+      "şüphesiz Sen",
+      ""
+     ],
+     [
+      "اَنْتَ",
+      "Sen",
+      ""
+     ],
+     [
+      "الْعَل۪يمُ",
+      "her şeyi bilen",
+      "Alîm, ilim"
+     ],
+     [
+      "الْحَك۪يمُ",
+      "hikmet sahibi",
+      "Hakîm, hikmet, hüküm"
+     ]
+    ]
+   }
+  ],
+  "genel": "Melekler bilmediklerini dürüstçe kabul edip Allah'ı tesbih eder. Gerçek bilgi Allah'a aittir; kulun bildiği ise O'nun öğrettiği kadardır. Bilmediğini “bilmiyorum” demek edeptir.",
+  "sure": "Bakara",
+  "sayfa": 6,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-033",
+  "ayet": 33,
+  "titre": "Âdem isimleri bildiriyor",
+  "debut": "قَالَ يَٓا اٰدَمُ",
+  "ayet_ar": "قَالَ يَٓا اٰدَمُ اَنْبِئْهُمْ بِاَسْمَٓائِهِمْۚ فَلَمَّٓا اَنْبَاَهُمْ بِاَسْمَٓائِهِمْ قَالَ اَلَمْ اَقُلْ لَكُمْ اِنّ۪ٓي اَعْلَمُ غَيْبَ السَّمٰوَاتِ وَالْاَرْضِ وَاَعْلَمُ مَا تُبْدُونَ وَمَا كُنْتُمْ تَكْتُمُونَ",
+  "meal": "Allah: “Ey Âdem! Onlara bunların isimlerini bildir” dedi. Âdem isimlerini bildirince Allah: “Ben göklerin ve yerin gaybını bilirim; açığa vurduğunuzu da gizlediğinizi de bilirim, demedim mi?” buyurdu.",
+  "parcalar": [
+   {
+    "ar": "قَالَ يَٓا اٰدَمُ اَنْبِئْهُمْ بِاَسْمَٓائِهِمْ",
+    "tr": "Dedi: “Ey Âdem! Onlara bunların isimlerini bildir.”",
+    "kelimeler": [
+     [
+      "قَالَ",
+      "dedi",
+      "kavl"
+     ],
+     [
+      "يَٓا اٰدَمُ",
+      "ey Âdem",
+      ""
+     ],
+     [
+      "اَنْبِئْهُمْ",
+      "onlara bildir",
+      "nebe"
+     ],
+     [
+      "بِاَسْمَٓائِهِمْ",
+      "isimlerini",
+      "esma"
+     ]
+    ]
+   },
+   {
+    "ar": "فَلَمَّٓا اَنْبَاَهُمْ بِاَسْمَٓائِهِمْ",
+    "tr": "Âdem onlara isimlerini bildirince,",
+    "kelimeler": [
+     [
+      "فَلَمَّٓا",
+      "…ince",
+      ""
+     ],
+     [
+      "اَنْبَاَهُمْ",
+      "onlara bildirdi",
+      "nebe"
+     ],
+     [
+      "بِاَسْمَٓائِهِمْ",
+      "isimlerini",
+      "esma"
+     ]
+    ]
+   },
+   {
+    "ar": "قَالَ اَلَمْ اَقُلْ لَكُمْ اِنّ۪ٓي اَعْلَمُ غَيْبَ السَّمٰوَاتِ وَالْاَرْضِ",
+    "tr": "Allah buyurdu: “Size, göklerin ve yerin gaybını bilirim demedim mi?",
+    "kelimeler": [
+     [
+      "قَالَ",
+      "buyurdu",
+      "kavl"
+     ],
+     [
+      "اَلَمْ اَقُلْ",
+      "demedim mi",
+      "kavl"
+     ],
+     [
+      "لَكُمْ",
+      "size",
+      ""
+     ],
+     [
+      "اِنّ۪ٓي",
+      "şüphesiz ben",
+      ""
+     ],
+     [
+      "اَعْلَمُ",
+      "bilirim",
+      "ilim"
+     ],
+     [
+      "غَيْبَ",
+      "gaybını",
+      "gayb"
+     ],
+     [
+      "السَّمٰوَاتِ",
+      "göklerin",
+      "semavat"
+     ],
+     [
+      "وَالْاَرْضِ",
+      "ve yerin",
+      "arz"
+     ]
+    ]
+   },
+   {
+    "ar": "وَاَعْلَمُ مَا تُبْدُونَ وَمَا كُنْتُمْ تَكْتُمُونَ",
+    "tr": "Açığa vurduğunuzu da gizlediğinizi de bilirim.”",
+    "kelimeler": [
+     [
+      "وَاَعْلَمُ",
+      "ve bilirim",
+      "ilim"
+     ],
+     [
+      "مَا تُبْدُونَ",
+      "açığa vurduğunuzu",
+      "bedevi, ibda"
+     ],
+     [
+      "وَمَا كُنْتُمْ",
+      "ve olduğunuzu",
+      ""
+     ],
+     [
+      "تَكْتُمُونَ",
+      "gizliyor",
+      "ketum"
+     ]
+    ]
+   }
+  ],
+  "genel": "Âdem, Allah'ın öğrettiği isimleri meleklere bildirir ve insanın ilimle donatıldığı ortaya çıkar. Allah, görünen ve görünmeyen her şeyi, içte saklanan ve dışa vurulanı bilir. Hiçbir şey O'ndan gizli kalmaz.",
+  "sure": "Bakara",
+  "sayfa": 6,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-034",
+  "ayet": 34,
+  "titre": "Secde ve İblis",
+  "debut": "وَاِذْ قُلْنَا",
+  "ayet_ar": "وَاِذْ قُلْنَا لِلْمَلٰٓئِكَةِ اسْجُدُوا لِاٰدَمَ فَسَجَدُٓوا اِلَّٓا اِبْل۪يسَۜ اَبٰى وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِر۪ينَ",
+  "meal": "Hani meleklere: “Âdem'e secde edin” demiştik. İblis hariç hepsi secde ettiler. O, diretti, büyüklük tasladı ve kâfirlerden oldu.",
+  "parcalar": [
+   {
+    "ar": "وَاِذْ قُلْنَا لِلْمَلٰٓئِكَةِ اسْجُدُوا لِاٰدَمَ",
+    "tr": "Hani meleklere: “Âdem'e secde edin” demiştik.",
+    "kelimeler": [
+     [
+      "وَاِذْ",
+      "hani",
+      ""
+     ],
+     [
+      "قُلْنَا",
+      "dedik",
+      "kavl"
+     ],
+     [
+      "لِلْمَلٰٓئِكَةِ",
+      "meleklere",
+      "melaike"
+     ],
+     [
+      "اسْجُدُوا",
+      "secde edin",
+      "secde, mescit"
+     ],
+     [
+      "لِاٰدَمَ",
+      "Âdem'e",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "فَسَجَدُٓوا اِلَّٓا اِبْل۪يسَ",
+    "tr": "İblis hariç hepsi secde ettiler.",
+    "kelimeler": [
+     [
+      "فَسَجَدُٓوا",
+      "secde ettiler",
+      "secde"
+     ],
+     [
+      "اِلَّٓا",
+      "hariç",
+      ""
+     ],
+     [
+      "اِبْل۪يسَ",
+      "İblis",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "اَبٰى وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِر۪ينَ",
+    "tr": "O diretti, büyüklük tasladı ve kâfirlerden oldu.",
+    "kelimeler": [
+     [
+      "اَبٰى",
+      "diretti, kaçındı",
+      "ibâ"
+     ],
+     [
+      "وَاسْتَكْبَرَ",
+      "ve büyüklük tasladı",
+      "kibir, tekebbür"
+     ],
+     [
+      "وَكَانَ",
+      "ve oldu",
+      ""
+     ],
+     [
+      "مِنَ الْكَافِر۪ينَ",
+      "kâfirlerden",
+      "küfür, kâfir"
+     ]
+    ]
+   }
+  ],
+  "genel": "Melekler Allah'ın emrine hemen uyup Âdem'e saygı secdesi etti. İblis ise kibrinden emre karşı geldi. Kibir, insanı (ve cinni) hakkı reddetmeye ve inkâra götüren ilk büyük hatadır.",
+  "sure": "Bakara",
+  "sayfa": 6,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-035",
+  "ayet": 35,
+  "titre": "Cennet ve yasak ağaç",
+  "debut": "وَقُلْنَا يَٓا اٰدَمُ",
+  "ayet_ar": "وَقُلْنَا يَٓا اٰدَمُ اسْكُنْ اَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَداً حَيْثُ شِئْتُمَاۖ وَلَا تَقْرَبَا هٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِم۪ينَ",
+  "meal": "Dedik ki: “Ey Âdem! Sen ve eşin cennette yerleşin; orada dilediğiniz yerden bol bol yiyin. Fakat şu ağaca yaklaşmayın, yoksa zalimlerden olursunuz.”",
+  "parcalar": [
+   {
+    "ar": "وَقُلْنَا يَٓا اٰدَمُ اسْكُنْ اَنْتَ وَزَوْجُكَ الْجَنَّةَ",
+    "tr": "Dedik: “Ey Âdem! Sen ve eşin cennete yerleşin.",
+    "kelimeler": [
+     [
+      "وَقُلْنَا",
+      "ve dedik",
+      "kavl"
+     ],
+     [
+      "يَٓا اٰدَمُ",
+      "ey Âdem",
+      ""
+     ],
+     [
+      "اسْكُنْ",
+      "yerleş",
+      "sükûn, mesken"
+     ],
+     [
+      "اَنْتَ",
+      "sen",
+      ""
+     ],
+     [
+      "وَزَوْجُكَ",
+      "ve eşin",
+      "zevç, zevce"
+     ],
+     [
+      "الْجَنَّةَ",
+      "cennete",
+      "cennet"
+     ]
+    ]
+   },
+   {
+    "ar": "وَكُلَا مِنْهَا رَغَداً حَيْثُ شِئْتُمَا",
+    "tr": "Oradan dilediğiniz yerden bol bol yiyin.",
+    "kelimeler": [
+     [
+      "وَكُلَا",
+      "ve ikiniz yiyin",
+      "ekl"
+     ],
+     [
+      "مِنْهَا",
+      "ondan",
+      ""
+     ],
+     [
+      "رَغَداً",
+      "bol bol",
+      "rağd"
+     ],
+     [
+      "حَيْثُ",
+      "nereden",
+      ""
+     ],
+     [
+      "شِئْتُمَا",
+      "dilerseniz",
+      "meşiet, inşallah"
+     ]
+    ]
+   },
+   {
+    "ar": "وَلَا تَقْرَبَا هٰذِهِ الشَّجَرَةَ",
+    "tr": "Ama şu ağaca yaklaşmayın,",
+    "kelimeler": [
+     [
+      "وَلَا تَقْرَبَا",
+      "ve ikiniz yaklaşmayın",
+      "kurb, akraba"
+     ],
+     [
+      "هٰذِهِ",
+      "şu",
+      ""
+     ],
+     [
+      "الشَّجَرَةَ",
+      "ağaca",
+      "şecere"
+     ]
+    ]
+   },
+   {
+    "ar": "فَتَكُونَا مِنَ الظَّالِم۪ينَ",
+    "tr": "yoksa zalimlerden olursunuz.”",
+    "kelimeler": [
+     [
+      "فَتَكُونَا",
+      "yoksa ikiniz olursunuz",
+      ""
+     ],
+     [
+      "مِنَ الظَّالِم۪ينَ",
+      "zalimlerden",
+      "zulüm, zalim"
+     ]
+    ]
+   }
+  ],
+  "genel": "Allah, Âdem ile eşine cennette bolluk içinde yaşama izni verdi; tek bir sınır koydu. Nimetler çok, yasak azdır. Sınırı aşmak, insanın kendine zulmetmesidir.",
+  "sure": "Bakara",
+  "sayfa": 6,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-036",
+  "ayet": 36,
+  "titre": "Cennetten iniş",
+  "debut": "فَاَزَلَّهُمَا الشَّيْطَانُ",
+  "ayet_ar": "فَاَزَلَّهُمَا الشَّيْطَانُ عَنْهَا فَاَخْرَجَهُمَا مِمَّا كَانَا ف۪يهِۖ وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۚ وَلَكُمْ فِي الْاَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ اِلٰى ح۪ينٍ",
+  "meal": "Şeytan onların ayağını kaydırdı ve içinde bulundukları durumdan onları çıkardı. Biz de: “Birbirinize düşman olarak inin. Yeryüzünde sizin için bir süreye kadar barınak ve geçimlik vardır” dedik.",
+  "parcalar": [
+   {
+    "ar": "فَاَزَلَّهُمَا الشَّيْطَانُ عَنْهَا",
+    "tr": "Şeytan oradan onların ayağını kaydırdı,",
+    "kelimeler": [
+     [
+      "فَاَزَلَّهُمَا",
+      "ikisini kaydırdı",
+      "zelle"
+     ],
+     [
+      "الشَّيْطَانُ",
+      "şeytan",
+      "şeytan"
+     ],
+     [
+      "عَنْهَا",
+      "oradan",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "فَاَخْرَجَهُمَا مِمَّا كَانَا ف۪يهِ",
+    "tr": "ve onları içinde bulundukları yerden çıkardı.",
+    "kelimeler": [
+     [
+      "فَاَخْرَجَهُمَا",
+      "ikisini çıkardı",
+      "huruç, harç"
+     ],
+     [
+      "مِمَّا",
+      "şeyden",
+      ""
+     ],
+     [
+      "كَانَا",
+      "ikisi idi",
+      ""
+     ],
+     [
+      "ف۪يهِ",
+      "içinde",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ",
+    "tr": "Dedik: “Birbirinize düşman olarak inin.",
+    "kelimeler": [
+     [
+      "وَقُلْنَا",
+      "ve dedik",
+      "kavl"
+     ],
+     [
+      "اهْبِطُوا",
+      "inin",
+      "hubut"
+     ],
+     [
+      "بَعْضُكُمْ",
+      "bir kısmınız",
+      "bazı"
+     ],
+     [
+      "لِبَعْضٍ",
+      "bir kısmına",
+      ""
+     ],
+     [
+      "عَدُوٌّ",
+      "düşman",
+      "adüv, adavet"
+     ]
+    ]
+   },
+   {
+    "ar": "وَلَكُمْ فِي الْاَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ اِلٰى ح۪ينٍ",
+    "tr": "Yeryüzünde sizin için bir süreye kadar barınak ve geçimlik var.”",
+    "kelimeler": [
+     [
+      "وَلَكُمْ",
+      "ve sizin için",
+      ""
+     ],
+     [
+      "فِي الْاَرْضِ",
+      "yeryüzünde",
+      "arz"
+     ],
+     [
+      "مُسْتَقَرٌّ",
+      "barınak, yerleşim",
+      "karar, istikrar"
+     ],
+     [
+      "وَمَتَاعٌ",
+      "ve geçimlik",
+      "meta"
+     ],
+     [
+      "اِلٰى ح۪ينٍ",
+      "bir süreye kadar",
+      "hin"
+     ]
+    ]
+   }
+  ],
+  "genel": "Şeytan vesvese vererek Âdem ile eşini yasağa yaklaştırdı ve cennetteki hâllerinden çıkmalarına sebep oldu. İnsan artık yeryüzünde, sınırlı bir süre için yaşayacak. Dünya kalıcı yurt değil, geçici bir duraktır.",
+  "sure": "Bakara",
+  "sayfa": 6,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-037",
+  "ayet": 37,
+  "titre": "Âdem'in tövbesi",
+  "debut": "فَتَلَقّٰٓى اٰدَمُ",
+  "ayet_ar": "فَتَلَقّٰٓى اٰدَمُ مِنْ رَبِّه۪ كَلِمَاتٍ فَتَابَ عَلَيْهِۜ اِنَّهُ هُوَ التَّوَّابُ الرَّح۪يمُ",
+  "meal": "Derken Âdem Rabbinden birtakım kelimeler aldı (onlarla tövbe etti); Allah da onun tövbesini kabul etti. Şüphesiz O, tövbeleri çok kabul eden, çok merhametli olandır.",
+  "parcalar": [
+   {
+    "ar": "فَتَلَقّٰٓى اٰدَمُ مِنْ رَبِّه۪ كَلِمَاتٍ",
+    "tr": "Âdem Rabbinden birtakım kelimeler aldı,",
+    "kelimeler": [
+     [
+      "فَتَلَقّٰٓى",
+      "aldı, öğrendi",
+      "telakki"
+     ],
+     [
+      "اٰدَمُ",
+      "Âdem",
+      ""
+     ],
+     [
+      "مِنْ رَبِّه۪",
+      "Rabbinden",
+      "Rab"
+     ],
+     [
+      "كَلِمَاتٍ",
+      "kelimeler",
+      "kelime, kelam"
+     ]
+    ]
+   },
+   {
+    "ar": "فَتَابَ عَلَيْهِ",
+    "tr": "Allah da onun tövbesini kabul etti.",
+    "kelimeler": [
+     [
+      "فَتَابَ",
+      "tövbeyi kabul etti",
+      "tövbe, tevbe"
+     ],
+     [
+      "عَلَيْهِ",
+      "onun",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "اِنَّهُ هُوَ التَّوَّابُ الرَّح۪يمُ",
+    "tr": "Şüphesiz O, tövbeleri çok kabul eden, çok merhametlidir.",
+    "kelimeler": [
+     [
+      "اِنَّهُ",
+      "şüphesiz O",
+      ""
+     ],
+     [
+      "هُوَ",
+      "O",
+      ""
+     ],
+     [
+      "التَّوَّابُ",
+      "tövbeleri çok kabul eden",
+      "Tevvâb, tövbe"
+     ],
+     [
+      "الرَّح۪يمُ",
+      "çok merhametli",
+      "Rahîm, rahmet"
+     ]
+    ]
+   }
+  ],
+  "genel": "Âdem hatasında ısrar etmedi; Allah'ın öğrettiği sözlerle pişmanlığını dile getirip tövbe etti. Allah da tövbesini kabul etti. Hata insanın doğasındadır; önemli olan hemen Allah'a dönmektir.",
+  "sure": "Bakara",
+  "sayfa": 6,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-038",
+  "ayet": 38,
+  "titre": "Hidayete uyanlar",
+  "debut": "قُلْنَا اهْبِطُوا",
+  "ayet_ar": "قُلْنَا اهْبِطُوا مِنْهَا جَم۪يعاًۚ فَاِمَّا يَأْتِيَنَّكُمْ مِنّ۪ي هُدًى فَمَنْ تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+  "meal": "Dedik ki: \"Hepiniz oradan inin. Benden size bir hidayet geldiğinde, kim benim hidayetime uyarsa, onlar için hiçbir korku yoktur. Onlar üzülmeyecekler de.\"",
+  "parcalar": [
+   {
+    "ar": "قُلْنَا اهْبِطُوا مِنْهَا جَم۪يعاً",
+    "tr": "Dedik ki: Hepiniz oradan inin.",
+    "kelimeler": [
+     [
+      "قُلْنَا",
+      "dedik",
+      "kavl, makale"
+     ],
+     [
+      "اهْبِطُوا",
+      "inin",
+      "hubût"
+     ],
+     [
+      "مِنْهَا",
+      "oradan",
+      ""
+     ],
+     [
+      "جَم۪يعاً",
+      "hepiniz",
+      "cem, cemaat"
+     ]
+    ]
+   },
+   {
+    "ar": "فَاِمَّا يَأْتِيَنَّكُمْ مِنّ۪ي هُدًى",
+    "tr": "Benden size bir hidayet geldiğinde,",
+    "kelimeler": [
+     [
+      "فَاِمَّا",
+      "eğer, ne zaman",
+      ""
+     ],
+     [
+      "يَأْتِيَنَّكُمْ",
+      "size gelirse",
+      ""
+     ],
+     [
+      "مِنّ۪ي",
+      "benden",
+      ""
+     ],
+     [
+      "هُدًى",
+      "bir hidayet",
+      "hidayet, hüda"
+     ]
+    ]
+   },
+   {
+    "ar": "فَمَنْ تَبِعَ هُدَايَ",
+    "tr": "kim benim hidayetime uyarsa,",
+    "kelimeler": [
+     [
+      "فَمَنْ",
+      "kim",
+      ""
+     ],
+     [
+      "تَبِعَ",
+      "uyarsa",
+      "tâbi, tebaa"
+     ],
+     [
+      "هُدَايَ",
+      "benim hidayetime",
+      "hidayet"
+     ]
+    ]
+   },
+   {
+    "ar": "فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "tr": "onlar için hiçbir korku yoktur; onlar üzülmeyecekler de.",
+    "kelimeler": [
+     [
+      "فَلَا",
+      "artık yoktur",
+      ""
+     ],
+     [
+      "خَوْفٌ",
+      "bir korku",
+      "havf"
+     ],
+     [
+      "عَلَيْهِمْ",
+      "onlar için",
+      ""
+     ],
+     [
+      "وَلَا",
+      "ve değil",
+      ""
+     ],
+     [
+      "هُمْ",
+      "onlar",
+      ""
+     ],
+     [
+      "يَحْزَنُونَ",
+      "üzülürler",
+      "hüzün, mahzun"
+     ]
+    ]
+   }
+  ],
+  "genel": "Âdem ve eşi yeryüzüne indirildi ama yalnız bırakılmadı: Allah insanlara yol gösterecek hidayet göndereceğini vaat etti. Bu hidayete uyan, ne gelecekten korkar ne de geçmişe üzülür.",
+  "sure": "Bakara",
+  "sayfa": 7,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-039",
+  "ayet": 39,
+  "titre": "Ateş ehli",
+  "debut": "وَالَّذ۪ينَ كَفَرُوا",
+  "ayet_ar": "وَالَّذ۪ينَ كَفَرُوا وَكَذَّبُوا بِاٰيَاتِنَٓا اُو۬لٰٓئِكَ اَصْحَابُ النَّارِۚ هُمْ ف۪يهَا خَالِدُونَ۟",
+  "meal": "İnkâr edip âyetlerimizi yalanlayanlar ise cehennemliklerdir. Onlar orada ebedî kalacaklardır.",
+  "parcalar": [
+   {
+    "ar": "وَالَّذ۪ينَ كَفَرُوا وَكَذَّبُوا بِاٰيَاتِنَٓا",
+    "tr": "İnkâr edip âyetlerimizi yalanlayanlar ise",
+    "kelimeler": [
+     [
+      "وَالَّذ۪ينَ",
+      "ve kimseler",
+      ""
+     ],
+     [
+      "كَفَرُوا",
+      "inkâr ettiler",
+      "küfür, kâfir"
+     ],
+     [
+      "وَكَذَّبُوا",
+      "ve yalanladılar",
+      "kizb, tekzip"
+     ],
+     [
+      "بِاٰيَاتِنَٓا",
+      "âyetlerimizi",
+      "âyet"
+     ]
+    ]
+   },
+   {
+    "ar": "اُو۬لٰٓئِكَ اَصْحَابُ النَّارِ",
+    "tr": "işte onlar ateş ehlidir.",
+    "kelimeler": [
+     [
+      "اُو۬لٰٓئِكَ",
+      "işte onlar",
+      ""
+     ],
+     [
+      "اَصْحَابُ",
+      "ehli, arkadaşları",
+      "sahip, ashab"
+     ],
+     [
+      "النَّارِ",
+      "ateşin",
+      "nar, nur"
+     ]
+    ]
+   },
+   {
+    "ar": "هُمْ ف۪يهَا خَالِدُونَ۟",
+    "tr": "Onlar orada ebedî kalacaklardır.",
+    "kelimeler": [
+     [
+      "هُمْ",
+      "onlar",
+      ""
+     ],
+     [
+      "ف۪يهَا",
+      "orada",
+      ""
+     ],
+     [
+      "خَالِدُونَ۟",
+      "ebedî kalacaklar",
+      "ebedî, hulûd, Hâlid"
+     ]
+    ]
+   }
+  ],
+  "genel": "Bir önceki âyetteki müjdenin karşı tarafı: Hidayeti reddedip Allah'ın âyetlerini yalanlayanların sonu ateştir. Seçim insana bırakılmıştır, sonucu da ona göre olur.",
+  "sure": "Bakara",
+  "sayfa": 7,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-040",
+  "ayet": 40,
+  "titre": "Ahde vefa",
+  "debut": "يَا بَن۪ٓي اِسْرَٓائ۪لَ",
+  "ayet_ar": "يَا بَن۪ٓي اِسْرَٓائ۪لَ اذْكُرُوا نِعْمَتِيَ الَّت۪ٓي اَنْعَمْتُ عَلَيْكُمْ وَاَوْفُوا بِعَهْد۪ٓي اُو۫فِ بِعَهْدِكُمْۚ وَاِيَّايَ فَارْهَبُونِ",
+  "meal": "Ey İsrailoğulları! Size verdiğim nimetimi hatırlayın. Bana verdiğiniz sözü yerine getirin ki ben de size verdiğim sözü yerine getireyim. Yalnızca benden korkun.",
+  "parcalar": [
+   {
+    "ar": "يَا بَن۪ٓي اِسْرَٓائ۪لَ",
+    "tr": "Ey İsrailoğulları!",
+    "kelimeler": [
+     [
+      "يَا",
+      "ey",
+      ""
+     ],
+     [
+      "بَن۪ٓي",
+      "oğulları",
+      "ibn, Benî"
+     ],
+     [
+      "اِسْرَٓائ۪لَ",
+      "İsrail",
+      "İsrail"
+     ]
+    ]
+   },
+   {
+    "ar": "اذْكُرُوا نِعْمَتِيَ الَّت۪ٓي اَنْعَمْتُ عَلَيْكُمْ",
+    "tr": "Size verdiğim nimetimi hatırlayın.",
+    "kelimeler": [
+     [
+      "اذْكُرُوا",
+      "hatırlayın",
+      "zikir, tezkere"
+     ],
+     [
+      "نِعْمَتِيَ",
+      "nimetimi",
+      "nimet"
+     ],
+     [
+      "الَّت۪ٓي",
+      "ki o",
+      ""
+     ],
+     [
+      "اَنْعَمْتُ",
+      "nimet verdim",
+      "nimet, in'am"
+     ],
+     [
+      "عَلَيْكُمْ",
+      "size",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "وَاَوْفُوا بِعَهْد۪ٓي اُو۫فِ بِعَهْدِكُمْ",
+    "tr": "Bana verdiğiniz sözü yerine getirin ki ben de size verdiğim sözü yerine getireyim.",
+    "kelimeler": [
+     [
+      "وَاَوْفُوا",
+      "ve yerine getirin",
+      "vefa, ifa"
+     ],
+     [
+      "بِعَهْد۪ٓي",
+      "bana verdiğiniz sözü",
+      "ahit, taahhüt"
+     ],
+     [
+      "اُو۫فِ",
+      "ben de yerine getireyim",
+      "vefa"
+     ],
+     [
+      "بِعَهْدِكُمْ",
+      "size verdiğim sözü",
+      "ahit"
+     ]
+    ]
+   },
+   {
+    "ar": "وَاِيَّايَ فَارْهَبُونِ",
+    "tr": "Yalnızca benden korkun.",
+    "kelimeler": [
+     [
+      "وَاِيَّايَ",
+      "ve yalnız benden",
+      ""
+     ],
+     [
+      "فَارْهَبُونِ",
+      "korkun",
+      "rehbe, ruhban"
+     ]
+    ]
+   }
+  ],
+  "genel": "Allah İsrailoğullarına verdiği nimetleri hatırlatır ve karşılıklı ahdi anar: Siz Allah'a verdiğiniz sözü tutarsanız, O da size verdiği sözü tutar. Korku ve saygı yalnız Allah'a olmalıdır.",
+  "sure": "Bakara",
+  "sayfa": 7,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-041",
+  "ayet": 41,
+  "titre": "Kur'an'a iman",
+  "debut": "وَاٰمِنُوا بِمَٓا",
+  "ayet_ar": "وَاٰمِنُوا بِمَٓا اَنْزَلْتُ مُصَدِّقاً لِمَا مَعَكُمْ وَلَا تَكُونُٓوا اَوَّلَ كَافِرٍ بِه۪ۖ وَلَا تَشْتَرُوا بِاٰيَات۪ي ثَمَناً قَل۪يلاًۘ وَاِيَّايَ فَاتَّقُونِ",
+  "meal": "Elinizdeki (Tevrat'ı) doğrulayıcı olarak indirdiğim Kur'an'a iman edin. Onu inkâr edenlerin ilki olmayın. Âyetlerimi az bir karşılığa değişmeyin. Yalnızca bana karşı gelmekten sakının.",
+  "parcalar": [
+   {
+    "ar": "وَاٰمِنُوا بِمَٓا اَنْزَلْتُ مُصَدِّقاً لِمَا مَعَكُمْ",
+    "tr": "Elinizdekini doğrulayıcı olarak indirdiğime iman edin.",
+    "kelimeler": [
+     [
+      "وَاٰمِنُوا",
+      "ve iman edin",
+      "iman, emin"
+     ],
+     [
+      "بِمَٓا",
+      "şeye",
+      ""
+     ],
+     [
+      "اَنْزَلْتُ",
+      "indirdim",
+      "nüzul, inzal"
+     ],
+     [
+      "مُصَدِّقاً",
+      "doğrulayıcı olarak",
+      "tasdik, sadık"
+     ],
+     [
+      "لِمَا",
+      "şeyi",
+      ""
+     ],
+     [
+      "مَعَكُمْ",
+      "yanınızdaki",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "وَلَا تَكُونُٓوا اَوَّلَ كَافِرٍ بِه۪",
+    "tr": "Onu inkâr edenlerin ilki olmayın.",
+    "kelimeler": [
+     [
+      "وَلَا تَكُونُٓوا",
+      "ve olmayın",
+      "kevn, kâinat"
+     ],
+     [
+      "اَوَّلَ",
+      "ilki",
+      "evvel"
+     ],
+     [
+      "كَافِرٍ",
+      "inkâr eden",
+      "kâfir"
+     ],
+     [
+      "بِه۪",
+      "onu",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "وَلَا تَشْتَرُوا بِاٰيَات۪ي ثَمَناً قَل۪يلاً",
+    "tr": "Âyetlerimi az bir karşılığa değişmeyin.",
+    "kelimeler": [
+     [
+      "وَلَا تَشْتَرُوا",
+      "ve satmayın, değişmeyin",
+      "müşteri"
+     ],
+     [
+      "بِاٰيَات۪ي",
+      "âyetlerimi",
+      "âyet"
+     ],
+     [
+      "ثَمَناً",
+      "bir bedel",
+      "semen"
+     ],
+     [
+      "قَل۪يلاً",
+      "az",
+      "kalil, taklil"
+     ]
+    ]
+   },
+   {
+    "ar": "وَاِيَّايَ فَاتَّقُونِ",
+    "tr": "Yalnızca bana karşı gelmekten sakının.",
+    "kelimeler": [
+     [
+      "وَاِيَّايَ",
+      "ve yalnız bana",
+      ""
+     ],
+     [
+      "فَاتَّقُونِ",
+      "sakının",
+      "takva, müttaki"
+     ]
+    ]
+   }
+  ],
+  "genel": "Kur'an, ehl-i kitabın elindeki kitabı doğrulayarak geldi. Onu ilk reddeden olmamaları, dünyalık küçük çıkarlar için Allah'ın âyetlerini satmamaları istenir. Asıl sakınılacak olan Allah'tır.",
+  "sure": "Bakara",
+  "sayfa": 7,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-042",
+  "ayet": 42,
+  "titre": "Hakkı gizlemeyin",
+  "debut": "وَلَا تَلْبِسُوا",
+  "ayet_ar": "وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَاَنْتُمْ تَعْلَمُونَ",
+  "meal": "Bile bile hakkı batıl ile karıştırıp örtmeyin.",
+  "parcalar": [
+   {
+    "ar": "وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ",
+    "tr": "Hakkı batıl ile karıştırmayın,",
+    "kelimeler": [
+     [
+      "وَلَا تَلْبِسُوا",
+      "ve karıştırmayın",
+      "libas, iltibas"
+     ],
+     [
+      "الْحَقَّ",
+      "hakkı",
+      "hak, hakikat"
+     ],
+     [
+      "بِالْبَاطِلِ",
+      "batıl ile",
+      "batıl, iptal"
+     ]
+    ]
+   },
+   {
+    "ar": "وَتَكْتُمُوا الْحَقَّ وَاَنْتُمْ تَعْلَمُونَ",
+    "tr": "bile bile hakkı gizlemeyin.",
+    "kelimeler": [
+     [
+      "وَتَكْتُمُوا",
+      "ve gizlemeyin",
+      "ketum, kitman"
+     ],
+     [
+      "الْحَقَّ",
+      "hakkı",
+      "hak"
+     ],
+     [
+      "وَاَنْتُمْ",
+      "siz ise",
+      ""
+     ],
+     [
+      "تَعْلَمُونَ",
+      "bildiğiniz hâlde",
+      "ilim, malum"
+     ]
+    ]
+   }
+  ],
+  "genel": "İki ayrı hata yasaklanır: doğruyu yanlışla karıştırıp bulandırmak ve doğruyu bildiği hâlde saklamak. Bilerek yapılması, bu hatayı daha da ağır kılar.",
+  "sure": "Bakara",
+  "sayfa": 7,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-043",
+  "ayet": 43,
+  "titre": "Namaz ve zekât",
+  "debut": "وَاَق۪يمُوا الصَّلٰوةَ",
+  "ayet_ar": "وَاَق۪يمُوا الصَّلٰوةَ وَاٰتُوا الزَّكٰوةَ وَارْكَعُوا مَعَ الرَّاكِع۪ينَ",
+  "meal": "Namazı dosdoğru kılın, zekâtı verin ve rükû edenlerle birlikte rükû edin.",
+  "parcalar": [
+   {
+    "ar": "وَاَق۪يمُوا الصَّلٰوةَ وَاٰتُوا الزَّكٰوةَ",
+    "tr": "Namazı dosdoğru kılın, zekâtı verin",
+    "kelimeler": [
+     [
+      "وَاَق۪يمُوا",
+      "ve dosdoğru kılın",
+      "ikamet, kıyam"
+     ],
+     [
+      "الصَّلٰوةَ",
+      "namazı",
+      "salât"
+     ],
+     [
+      "وَاٰتُوا",
+      "ve verin",
+      ""
+     ],
+     [
+      "الزَّكٰوةَ",
+      "zekâtı",
+      "zekât"
+     ]
+    ]
+   },
+   {
+    "ar": "وَارْكَعُوا مَعَ الرَّاكِع۪ينَ",
+    "tr": "ve rükû edenlerle birlikte rükû edin.",
+    "kelimeler": [
+     [
+      "وَارْكَعُوا",
+      "ve rükû edin",
+      "rükû, rekât"
+     ],
+     [
+      "مَعَ",
+      "birlikte",
+      "maiyet"
+     ],
+     [
+      "الرَّاكِع۪ينَ",
+      "rükû edenlerle",
+      "rükû"
+     ]
+    ]
+   }
+  ],
+  "genel": "İmanın amele dönüşmesi istenir: namazı hakkıyla kılmak, zekâtı vermek ve cemaatle, Müslümanlarla birlikte ibadet etmek.",
+  "sure": "Bakara",
+  "sayfa": 7,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-044",
+  "ayet": 44,
+  "titre": "Önce kendine",
+  "debut": "اَتَأْمُرُونَ النَّاسَ",
+  "ayet_ar": "اَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنْسَوْنَ اَنْفُسَكُمْ وَاَنْتُمْ تَتْلُونَ الْكِتَابَۜ اَفَلَا تَعْقِلُونَ",
+  "meal": "Siz insanlara iyiliği emrediyorsunuz da Kitab'ı okuyup durduğunuz hâlde kendinizi unutuyor musunuz? Hiç aklınızı kullanmıyor musunuz?",
+  "parcalar": [
+   {
+    "ar": "اَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنْسَوْنَ اَنْفُسَكُمْ",
+    "tr": "İnsanlara iyiliği emredip kendinizi unutuyor musunuz?",
+    "kelimeler": [
+     [
+      "اَتَأْمُرُونَ",
+      "emrediyor musunuz",
+      "emir, âmir"
+     ],
+     [
+      "النَّاسَ",
+      "insanlara",
+      "nas, insan"
+     ],
+     [
+      "بِالْبِرِّ",
+      "iyiliği",
+      "birr, ebrar"
+     ],
+     [
+      "وَتَنْسَوْنَ",
+      "ve unutuyorsunuz",
+      "nisyan"
+     ],
+     [
+      "اَنْفُسَكُمْ",
+      "kendinizi",
+      "nefis"
+     ]
+    ]
+   },
+   {
+    "ar": "وَاَنْتُمْ تَتْلُونَ الْكِتَابَ",
+    "tr": "Oysa siz Kitab'ı okuyorsunuz.",
+    "kelimeler": [
+     [
+      "وَاَنْتُمْ",
+      "oysa siz",
+      ""
+     ],
+     [
+      "تَتْلُونَ",
+      "okuyorsunuz",
+      "tilavet"
+     ],
+     [
+      "الْكِتَابَ",
+      "Kitab'ı",
+      "kitap"
+     ]
+    ]
+   },
+   {
+    "ar": "اَفَلَا تَعْقِلُونَ",
+    "tr": "Hiç aklınızı kullanmıyor musunuz?",
+    "kelimeler": [
+     [
+      "اَفَلَا",
+      "hâlâ … değil mi",
+      ""
+     ],
+     [
+      "تَعْقِلُونَ",
+      "akıl erdiriyorsunuz",
+      "akıl, makul"
+     ]
+    ]
+   }
+  ],
+  "genel": "Başkasına iyiliği öğütleyip kendisi yapmayan kınanır. Kitabı okuyan, bildiğini önce kendine uygulamalıdır. Söz ile davranışın uyumu aklın gereğidir.",
+  "sure": "Bakara",
+  "sayfa": 7,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-045",
+  "ayet": 45,
+  "titre": "Sabır ve namaz",
+  "debut": "وَاسْتَع۪ينُوا بِالصَّبْرِ",
+  "ayet_ar": "وَاسْتَع۪ينُوا بِالصَّبْرِ وَالصَّلٰوةِۜ وَاِنَّهَا لَكَب۪يرَةٌ اِلَّا عَلَى الْخَاشِع۪ينَۙ",
+  "meal": "Sabrederek ve namaz kılarak (Allah'tan) yardım dileyin. Şüphesiz namaz, Allah'a derinden saygı duyanlardan başkasına ağır gelir.",
+  "parcalar": [
+   {
+    "ar": "وَاسْتَع۪ينُوا بِالصَّبْرِ وَالصَّلٰوةِ",
+    "tr": "Sabır ve namazla yardım dileyin.",
+    "kelimeler": [
+     [
+      "وَاسْتَع۪ينُوا",
+      "ve yardım dileyin",
+      "iane, muavin"
+     ],
+     [
+      "بِالصَّبْرِ",
+      "sabırla",
+      "sabır"
+     ],
+     [
+      "وَالصَّلٰوةِ",
+      "ve namazla",
+      "salât"
+     ]
+    ]
+   },
+   {
+    "ar": "وَاِنَّهَا لَكَب۪يرَةٌ اِلَّا عَلَى الْخَاشِع۪ينَ",
+    "tr": "Şüphesiz o, huşu duyanlardan başkasına ağır gelir.",
+    "kelimeler": [
+     [
+      "وَاِنَّهَا",
+      "ve şüphesiz o",
+      ""
+     ],
+     [
+      "لَكَب۪يرَةٌ",
+      "elbette ağırdır",
+      "kebir, büyük"
+     ],
+     [
+      "اِلَّا",
+      "ancak, başkasına",
+      ""
+     ],
+     [
+      "عَلَى",
+      "üzerine",
+      ""
+     ],
+     [
+      "الْخَاشِع۪ينَ",
+      "huşu duyanlar",
+      "huşu"
+     ]
+    ]
+   }
+  ],
+  "genel": "Zorluklar karşısında iki büyük destek gösterilir: sabır ve namaz. Namaz, Allah'a derin saygı duymayanlara yük gibi gelir; huşu sahibi için ise güç kaynağıdır.",
+  "sure": "Bakara",
+  "sayfa": 7,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-046",
+  "ayet": 46,
+  "titre": "Rabbe kavuşma",
+  "debut": "اَلَّذ۪ينَ يَظُنُّونَ",
+  "ayet_ar": "اَلَّذ۪ينَ يَظُنُّونَ اَنَّهُمْ مُلَاقُوا رَبِّهِمْ وَاَنَّهُمْ اِلَيْهِ رَاجِعُونَ۟",
+  "meal": "Onlar, Rablerine kavuşacaklarını ve O'na döneceklerini bilirler.",
+  "parcalar": [
+   {
+    "ar": "اَلَّذ۪ينَ يَظُنُّونَ اَنَّهُمْ مُلَاقُوا رَبِّهِمْ",
+    "tr": "Onlar Rablerine kavuşacaklarını bilirler,",
+    "kelimeler": [
+     [
+      "اَلَّذ۪ينَ",
+      "onlar ki",
+      ""
+     ],
+     [
+      "يَظُنُّونَ",
+      "bilirler, kesin inanırlar",
+      "zan"
+     ],
+     [
+      "اَنَّهُمْ",
+      "kendilerinin",
+      ""
+     ],
+     [
+      "مُلَاقُوا",
+      "kavuşacakları",
+      "lika, mülakat"
+     ],
+     [
+      "رَبِّهِمْ",
+      "Rablerine",
+      "Rab"
+     ]
+    ]
+   },
+   {
+    "ar": "وَاَنَّهُمْ اِلَيْهِ رَاجِعُونَ۟",
+    "tr": "ve O'na döneceklerini.",
+    "kelimeler": [
+     [
+      "وَاَنَّهُمْ",
+      "ve kendilerinin",
+      ""
+     ],
+     [
+      "اِلَيْهِ",
+      "O'na",
+      ""
+     ],
+     [
+      "رَاجِعُونَ۟",
+      "dönecekleri",
+      "rücu, müracaat"
+     ]
+    ]
+   }
+  ],
+  "genel": "Huşu sahiplerinin özelliği anlatılır: Allah'a kavuşacaklarına ve O'na döneceklerine yürekten inanırlar. Bu inanç, namazı ve sabrı onlara kolaylaştırır.",
+  "sure": "Bakara",
+  "sayfa": 7,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-047",
+  "ayet": 47,
+  "titre": "Üstün kılınma",
+  "debut": "يَا بَن۪ٓي اِسْرَٓائ۪لَ",
+  "ayet_ar": "يَا بَن۪ٓي اِسْرَٓائ۪لَ اذْكُرُوا نِعْمَتِيَ الَّت۪ٓي اَنْعَمْتُ عَلَيْكُمْ وَاَنّ۪ي فَضَّلْتُكُمْ عَلَى الْعَالَم۪ينَ",
+  "meal": "Ey İsrailoğulları! Size verdiğim nimetimi ve sizi (bir zamanlar) âlemlere üstün kıldığımı hatırlayın.",
+  "parcalar": [
+   {
+    "ar": "يَا بَن۪ٓي اِسْرَٓائ۪لَ",
+    "tr": "Ey İsrailoğulları!",
+    "kelimeler": [
+     [
+      "يَا",
+      "ey",
+      ""
+     ],
+     [
+      "بَن۪ٓي",
+      "oğulları",
+      "ibn, Benî"
+     ],
+     [
+      "اِسْرَٓائ۪لَ",
+      "İsrail",
+      "İsrail"
+     ]
+    ]
+   },
+   {
+    "ar": "اذْكُرُوا نِعْمَتِيَ الَّت۪ٓي اَنْعَمْتُ عَلَيْكُمْ",
+    "tr": "Size verdiğim nimetimi hatırlayın,",
+    "kelimeler": [
+     [
+      "اذْكُرُوا",
+      "hatırlayın",
+      "zikir"
+     ],
+     [
+      "نِعْمَتِيَ",
+      "nimetimi",
+      "nimet"
+     ],
+     [
+      "الَّت۪ٓي",
+      "ki o",
+      ""
+     ],
+     [
+      "اَنْعَمْتُ",
+      "nimet verdim",
+      "in'am"
+     ],
+     [
+      "عَلَيْكُمْ",
+      "size",
+      ""
+     ]
+    ]
+   },
+   {
+    "ar": "وَاَنّ۪ي فَضَّلْتُكُمْ عَلَى الْعَالَم۪ينَ",
+    "tr": "ve sizi âlemlere üstün kıldığımı.",
+    "kelimeler": [
+     [
+      "وَاَنّ۪ي",
+      "ve şüphesiz ben",
+      ""
+     ],
+     [
+      "فَضَّلْتُكُمْ",
+      "sizi üstün kıldım",
+      "fazilet, tafsil"
+     ],
+     [
+      "عَلَى",
+      "üzerine",
+      ""
+     ],
+     [
+      "الْعَالَم۪ينَ",
+      "âlemlere",
+      "âlem"
+     ]
+    ]
+   }
+  ],
+  "genel": "40. âyetteki çağrı tekrar edilir ve bir nimet özellikle hatırlatılır: Allah onları bir dönem, kendi çağlarındaki toplumlara üstün kılmıştı. Bu üstünlük bir sorumluluktur.",
+  "sure": "Bakara",
+  "sayfa": 7,
+  "meal_label": "Meal:"
+ },
+ {
+  "id": "bakara-048",
+  "ayet": 48,
+  "titre": "Hesap günü",
+  "debut": "وَاتَّقُوا يَوْماً",
+  "ayet_ar": "وَاتَّقُوا يَوْماً لَا تَجْز۪ي نَفْسٌ عَنْ نَفْسٍ شَيْـٔاً وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنْصَرُونَ",
+  "meal": "Hiç kimsenin, kimse adına bir şey ödeyemeyeceği, hiç kimseden (Allah'ın izni olmadıkça) şefaat kabul edilmeyeceği ve fidye alınmayacağı, onlara yardım da edilmeyeceği bir günden sakının.",
+  "parcalar": [
+   {
+    "ar": "وَاتَّقُوا يَوْماً لَا تَجْز۪ي نَفْسٌ عَنْ نَفْسٍ شَيْـٔاً",
+    "tr": "Bir günden sakının ki kimse kimse adına bir şey ödeyemez,",
+    "kelimeler": [
+     [
+      "وَاتَّقُوا",
+      "ve sakının",
+      "takva"
+     ],
+     [
+      "يَوْماً",
+      "bir günden",
+      "yevm, yevmiye"
+     ],
+     [
+      "لَا تَجْز۪ي",
+      "ödemez, karşılamaz",
+      "ceza, cezalandırmak"
+     ],
+     [
+      "نَفْسٌ",
+      "hiçbir kimse",
+      "nefis"
+     ],
+     [
+      "عَنْ",
+      "yerine",
+      ""
+     ],
+     [
+      "نَفْسٍ",
+      "bir kimsenin",
+      "nefis"
+     ],
+     [
+      "شَيْـٔاً",
+      "hiçbir şey",
+      "şey"
+     ]
+    ]
+   },
+   {
+    "ar": "وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ",
+    "tr": "ondan şefaat kabul edilmez,",
+    "kelimeler": [
+     [
+      "وَلَا يُقْبَلُ",
+      "ve kabul edilmez",
+      "kabul, makbul"
+     ],
+     [
+      "مِنْهَا",
+      "ondan",
+      ""
+     ],
+     [
+      "شَفَاعَةٌ",
+      "şefaat",
+      "şefaat"
+     ]
+    ]
+   },
+   {
+    "ar": "وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ",
+    "tr": "ondan fidye alınmaz,",
+    "kelimeler": [
+     [
+      "وَلَا يُؤْخَذُ",
+      "ve alınmaz",
+      "ahz, muahaze"
+     ],
+     [
+      "مِنْهَا",
+      "ondan",
+      ""
+     ],
+     [
+      "عَدْلٌ",
+      "fidye, bedel",
+      "adil, adalet"
+     ]
+    ]
+   },
+   {
+    "ar": "وَلَا هُمْ يُنْصَرُونَ",
+    "tr": "onlara yardım da edilmez.",
+    "kelimeler": [
+     [
+      "وَلَا",
+      "ve değil",
+      ""
+     ],
+     [
+      "هُمْ",
+      "onlar",
+      ""
+     ],
+     [
+      "يُنْصَرُونَ",
+      "yardım görürler",
+      "nusret, ensar"
+     ]
+    ]
+   }
+  ],
+  "genel": "Kıyamet günü herkes kendi hesabını verir: kimse başkasının yükünü taşıyamaz, Allah'ın izni olmadan şefaat, fidye ya da yardım işe yaramaz. Bu günün bilinciyle yaşamak istenir.",
+  "sure": "Bakara",
+  "sayfa": 7,
+  "meal_label": "Meal:"
+ }
+]

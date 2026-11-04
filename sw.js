@@ -1,5 +1,5 @@
 // Kuran asistanı — çevrimdışı önbellek. Yeni kart eklerken VERSION'u artır.
-const VERSION = "kuran-v1";
+const VERSION = "kuran-v2";
 const FILES = [
  "./",
  "index.html",
@@ -36,7 +36,18 @@ const FILES = [
  "fiches/bakara-034.pdf",
  "fiches/bakara-035.pdf",
  "fiches/bakara-036.pdf",
- "fiches/bakara-037.pdf"
+ "fiches/bakara-037.pdf",
+ "fiches/bakara-038.pdf",
+ "fiches/bakara-039.pdf",
+ "fiches/bakara-040.pdf",
+ "fiches/bakara-041.pdf",
+ "fiches/bakara-042.pdf",
+ "fiches/bakara-043.pdf",
+ "fiches/bakara-044.pdf",
+ "fiches/bakara-045.pdf",
+ "fiches/bakara-046.pdf",
+ "fiches/bakara-047.pdf",
+ "fiches/bakara-048.pdf"
 ];
 self.addEventListener("install", e => { e.waitUntil(caches.open(VERSION).then(c => c.addAll(FILES)).then(() => self.skipWaiting())); });
 self.addEventListener("activate", e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== VERSION).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
